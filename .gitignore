@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+output/
+
+*.sql
+*.png
+
+data-science/worldcitiespop.txt

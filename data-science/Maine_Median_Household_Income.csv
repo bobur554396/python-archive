@@ -1,0 +1,1120 @@
+Place,Geo,Date,Source,Median Income
+Maine,State,1990,P080A STF3,$27854
+"Androscoggin County,Maine",County,1990,P080A STF3,$26979
+"Aroostook County,Maine",County,1990,P080A STF3,$22230
+"Cumberland County,Maine",County,1990,P080A STF3,$32286
+"Franklin County,Maine",County,1990,P080A STF3,$24432
+"Hancock County,Maine",County,1990,P080A STF3,$25247
+"Kennebec County,Maine",County,1990,P080A STF3,$28616
+"Knox County,Maine",County,1990,P080A STF3,$25405
+"Lincoln County,Maine",County,1990,P080A STF3,$28373
+"Oxford County,Maine",County,1990,P080A STF3,$24535
+"Penobscot County,Maine",County,1990,P080A STF3,$26631
+"Piscataquis County,Maine",County,1990,P080A STF3,$22132
+"Sagadahoc County,Maine",County,1990,P080A STF3,$31948
+"Somerset County,Maine",County,1990,P080A STF3,$22829
+"Waldo County,Maine",County,1990,P080A STF3,$23148
+"Washington County,Maine",County,1990,P080A STF3,$20003
+"York County,Maine",County,1990,P080A STF3,$32432
+"Abbot town, Piscataquis County,Maine",Town,1990,P080A STF3,$23125
+"Acton town, York County,Maine",Town,1990,P080A STF3,$29836
+"Addison town, Washington County,Maine",Town,1990,P080A STF3,$17028
+"Albion town, Kennebec County,Maine",Town,1990,P080A STF3,$25655
+"Alexander town, Washington County,Maine",Town,1990,P080A STF3,$22778
+"Alfred town, York County,Maine",Town,1990,P080A STF3,$31576
+"Allagash town, Aroostook County,Maine",Town,1990,P080A STF3,$11630
+"Alna town, Lincoln County,Maine",Town,1990,P080A STF3,$30750
+"Alton town, Penobscot County,Maine",Town,1990,P080A STF3,$29500
+"Amherst town, Hancock County,Maine",Town,1990,P080A STF3,$23958
+"Amity town, Aroostook County,Maine",Town,1990,P080A STF3,$22969
+"Andover town, Oxford County,Maine",Town,1990,P080A STF3,$23693
+"Anson town, Somerset County,Maine",Town,1990,P080A STF3,$22500
+"Appleton town, Knox County,Maine",Town,1990,P080A STF3,$25455
+"Argyle unorg., Penobscot County,Maine",Town,1990,P080A STF3,$25156
+"Arrowsic town, Sagadahoc County,Maine",Town,1990,P080A STF3,$36250
+"Arundel town, York County,Maine",Town,1990,P080A STF3,$33098
+"Ashland town, Aroostook County,Maine",Town,1990,P080A STF3,$25268
+"Athens town, Somerset County,Maine",Town,1990,P080A STF3,$18750
+"Atkinson town, Piscataquis County,Maine",Town,1990,P080A STF3,$29583
+"Auburn city, Androscoggin County,Maine",Town,1990,P080A STF3,$27493
+"Augusta city, Kennebec County,Maine",Town,1990,P080A STF3,$25790
+"Aurora town, Hancock County,Maine",Town,1990,P080A STF3,$17500
+"Avon town, Franklin County,Maine",Town,1990,P080A STF3,$17279
+"Baileyville town, Washington County,Maine",Town,1990,P080A STF3,$29241
+"Baldwin town, Cumberland County,Maine",Town,1990,P080A STF3,$33864
+"Bancroft town, Aroostook County,Maine",Town,1990,P080A STF3,$10000
+"Bangor city, Penobscot County,Maine",Town,1990,P080A STF3,$24674
+"Bar Harbor town, Hancock County,Maine",Town,1990,P080A STF3,$28100
+"Baring town, Washington County,Maine",Town,1990,P080A STF3,$26042
+"Bath city, Sagadahoc County,Maine",Town,1990,P080A STF3,$29892
+"Beals town, Washington County,Maine",Town,1990,P080A STF3,$17138
+"Beaver Cove town, Piscataquis County,Maine",Town,1990,P080A STF3,$41875
+"Beddington town, Washington County,Maine",Town,1990,P080A STF3,$18125
+"Belfast city, Waldo County,Maine",Town,1990,P080A STF3,$19884
+"Belgrade town, Kennebec County,Maine",Town,1990,P080A STF3,$31774
+"Belmont town, Waldo County,Maine",Town,1990,P080A STF3,$23529
+"Benton town, Kennebec County,Maine",Town,1990,P080A STF3,$30444
+"Berwick town, York County,Maine",Town,1990,P080A STF3,$35370
+"Bethel town, Oxford County,Maine",Town,1990,P080A STF3,$27188
+"Biddeford city, York County,Maine",Town,1990,P080A STF3,$28496
+"Bingham town, Somerset County,Maine",Town,1990,P080A STF3,$17109
+"Blaine town, Aroostook County,Maine",Town,1990,P080A STF3,$24643
+"Blanchard unorg., Piscataquis County,Maine",Town,1990,P080A STF3,$13333
+"Blue Hill town, Hancock County,Maine",Town,1990,P080A STF3,$26134
+"Boothbay Harbor town, Lincoln County,Maine",Town,1990,P080A STF3,$27650
+"Boothbay town, Lincoln County,Maine",Town,1990,P080A STF3,$27935
+"Bowdoin town, Sagadahoc County,Maine",Town,1990,P080A STF3,$32946
+"Bowdoinham town, Sagadahoc County,Maine",Town,1990,P080A STF3,$31776
+"Bowerbank town, Piscataquis County,Maine",Town,1990,P080A STF3,$30833
+"Bradford town, Penobscot County,Maine",Town,1990,P080A STF3,$22500
+"Bradley town, Penobscot County,Maine",Town,1990,P080A STF3,$27833
+"Bremen town, Lincoln County,Maine",Town,1990,P080A STF3,$26447
+"Brewer city, Penobscot County,Maine",Town,1990,P080A STF3,$28065
+"Bridgewater town, Aroostook County,Maine",Town,1990,P080A STF3,$19671
+"Bridgton town, Cumberland County,Maine",Town,1990,P080A STF3,$24428
+"Brighton plantation, Somerset County,Maine",Town,1990,P080A STF3,$16667
+"Bristol town, Lincoln County,Maine",Town,1990,P080A STF3,$26097
+"Brooklin town, Hancock County,Maine",Town,1990,P080A STF3,$20875
+"Brooks town, Waldo County,Maine",Town,1990,P080A STF3,$16818
+"Brooksville town, Hancock County,Maine",Town,1990,P080A STF3,$21154
+"Brownfield town, Oxford County,Maine",Town,1990,P080A STF3,$21833
+"Brownville town, Piscataquis County,Maine",Town,1990,P080A STF3,$21221
+"Brunswick town, Cumberland County,Maine",Town,1990,P080A STF3,$30896
+"Buckfield town, Oxford County,Maine",Town,1990,P080A STF3,$28750
+"Bucksport town, Hancock County,Maine",Town,1990,P080A STF3,$26265
+"Burlington town, Penobscot County,Maine",Town,1990,P080A STF3,$26094
+"Burnham town, Waldo County,Maine",Town,1990,P080A STF3,$19511
+"Buxton town, York County,Maine",Town,1990,P080A STF3,$37575
+"Byron town, Oxford County,Maine",Town,1990,P080A STF3,$32708
+"Calais city, Washington County,Maine",Town,1990,P080A STF3,$25326
+"Cambridge town, Somerset County,Maine",Town,1990,P080A STF3,$21146
+"Camden town, Knox County,Maine",Town,1990,P080A STF3,$30607
+"Canaan town, Somerset County,Maine",Town,1990,P080A STF3,$26354
+"Canton town, Oxford County,Maine",Town,1990,P080A STF3,$21250
+"Cape Elizabeth town, Cumberland County,Maine",Town,1990,P080A STF3,$47642
+"Caratunk town, Somerset County,Maine",Town,1990,P080A STF3,$19167
+"Caribou city, Aroostook County,Maine",Town,1990,P080A STF3,$22166
+"Carmel town, Penobscot County,Maine",Town,1990,P080A STF3,$27463
+"Carrabassett Valley town, Franklin County,Maine",Town,1990,P080A STF3,$27344
+"Carroll plantation, Penobscot County,Maine",Town,1990,P080A STF3,$11500
+"Carthage town, Franklin County,Maine",Town,1990,P080A STF3,$26389
+"Cary plantation, Aroostook County,Maine",Town,1990,P080A STF3,$21563
+"Casco town, Cumberland County,Maine",Town,1990,P080A STF3,$28133
+"Castine town, Hancock County,Maine",Town,1990,P080A STF3,$35104
+"Castle Hill town, Aroostook County,Maine",Town,1990,P080A STF3,$23846
+"Caswell town, Aroostook County,Maine",Town,1990,P080A STF3,$20652
+"Centerville town, Washington County,Maine",Town,1990,P080A STF3,$34167
+"Central Aroostook unorg., Aroostook County,Maine",Town,1990,P080A STF3,$30781
+"Central Hancock unorg., Hancock County,Maine",Town,1990,P080A STF3,$20375
+"Central Somerset unorg., Somerset County,Maine",Town,1990,P080A STF3,$15500
+"Chapman town, Aroostook County,Maine",Town,1990,P080A STF3,$28864
+"Charleston town, Penobscot County,Maine",Town,1990,P080A STF3,$27424
+"Charlotte town, Washington County,Maine",Town,1990,P080A STF3,$23214
+"Chelsea town, Kennebec County,Maine",Town,1990,P080A STF3,$26271
+"Cherryfield town, Washington County,Maine",Town,1990,P080A STF3,$20000
+"Chester town, Penobscot County,Maine",Town,1990,P080A STF3,$30750
+"Chesterville town, Franklin County,Maine",Town,1990,P080A STF3,$25875
+"China town, Kennebec County,Maine",Town,1990,P080A STF3,$34441
+"Clifton town, Penobscot County,Maine",Town,1990,P080A STF3,$24265
+"Clinton town, Kennebec County,Maine",Town,1990,P080A STF3,$29667
+"Codyville plantation, Washington County,Maine",Town,1990,P080A STF3,$27083
+"Columbia Falls town, Washington County,Maine",Town,1990,P080A STF3,$20536
+"Columbia town, Washington County,Maine",Town,1990,P080A STF3,$17500
+"Connor unorg., Aroostook County,Maine",Town,1990,P080A STF3,$21786
+"Cooper town, Washington County,Maine",Town,1990,P080A STF3,$21750
+"Coplin plantation, Franklin County,Maine",Town,1990,P080A STF3,$32708
+"Corinna town, Penobscot County,Maine",Town,1990,P080A STF3,$22236
+"Corinth town, Penobscot County,Maine",Town,1990,P080A STF3,$26383
+"Cornish town, York County,Maine",Town,1990,P080A STF3,$28158
+"Cornville town, Somerset County,Maine",Town,1990,P080A STF3,$25625
+"Cranberry Isles town, Hancock County,Maine",Town,1990,P080A STF3,$20417
+"Crawford town, Washington County,Maine",Town,1990,P080A STF3,$25833
+"Criehaven unorg., Knox County,Maine",Town,1990,P080A STF3,$0
+"Crystal town, Aroostook County,Maine",Town,1990,P080A STF3,$24375
+"Cumberland town, Cumberland County,Maine",Town,1990,P080A STF3,$50161
+"Cushing town, Knox County,Maine",Town,1990,P080A STF3,$25606
+"Cutler town, Washington County,Maine",Town,1990,P080A STF3,$20458
+"Cyr plantation, Aroostook County,Maine",Town,1990,P080A STF3,$16250
+"Dallas plantation, Franklin County,Maine",Town,1990,P080A STF3,$25000
+"Damariscotta town, Lincoln County,Maine",Town,1990,P080A STF3,$30571
+"Danforth town, Washington County,Maine",Town,1990,P080A STF3,$19583
+"Dayton town, York County,Maine",Town,1990,P080A STF3,$35114
+"Deblois town, Washington County,Maine",Town,1990,P080A STF3,$23000
+"Dedham town, Hancock County,Maine",Town,1990,P080A STF3,$32237
+"Deer Isle town, Hancock County,Maine",Town,1990,P080A STF3,$21852
+"Denmark town, Oxford County,Maine",Town,1990,P080A STF3,$27500
+"Dennistown plantation, Somerset County,Maine",Town,1990,P080A STF3,$9042
+"Dennysville town, Washington County,Maine",Town,1990,P080A STF3,$17143
+"Detroit town, Somerset County,Maine",Town,1990,P080A STF3,$21797
+"Dexter town, Penobscot County,Maine",Town,1990,P080A STF3,$21066
+"Dixfield town, Oxford County,Maine",Town,1990,P080A STF3,$24782
+"Dixmont town, Penobscot County,Maine",Town,1990,P080A STF3,$27833
+"Dover-Foxcroft town, Piscataquis County,Maine",Town,1990,P080A STF3,$23799
+"Dresden town, Lincoln County,Maine",Town,1990,P080A STF3,$29914
+"Drew plantation, Penobscot County,Maine",Town,1990,P080A STF3,$13750
+"Durham town, Androscoggin County,Maine",Town,1990,P080A STF3,$35720
+"Dyer Brook town, Aroostook County,Maine",Town,1990,P080A STF3,$24583
+"E plantation, Aroostook County,Maine",Town,1990,P080A STF3,$20625
+"Eagle Lake town, Aroostook County,Maine",Town,1990,P080A STF3,$18438
+"East Central Franklin unorg., Franklin County,Maine",Town,1990,P080A STF3,$24063
+"East Central Penobscot unorg., Penobscot County,Maine",Town,1990,P080A STF3,$0
+"East Central Washington unorg., Washington County,Maine",Town,1990,P080A STF3,$17396
+"East Hancock unorg., Hancock County,Maine",Town,1990,P080A STF3,$27500
+"East Machias town, Washington County,Maine",Town,1990,P080A STF3,$21094
+"East Millinocket town, Penobscot County,Maine",Town,1990,P080A STF3,$31008
+"Eastbrook town, Hancock County,Maine",Town,1990,P080A STF3,$25147
+"Easton town, Aroostook County,Maine",Town,1990,P080A STF3,$22171
+"Eastport city, Washington County,Maine",Town,1990,P080A STF3,$17282
+"Eddington town, Penobscot County,Maine",Town,1990,P080A STF3,$30033
+"Edgecomb town, Lincoln County,Maine",Town,1990,P080A STF3,$32670
+"Edinburg town, Penobscot County,Maine",Town,1990,P080A STF3,$27000
+"Eliot town, York County,Maine",Town,1990,P080A STF3,$38280
+"Ellsworth city, Hancock County,Maine",Town,1990,P080A STF3,$23469
+"Embden town, Somerset County,Maine",Town,1990,P080A STF3,$22619
+"Enfield town, Penobscot County,Maine",Town,1990,P080A STF3,$28929
+"Etna town, Penobscot County,Maine",Town,1990,P080A STF3,$24792
+"Eustis town, Franklin County,Maine",Town,1990,P080A STF3,$23333
+"Exeter town, Penobscot County,Maine",Town,1990,P080A STF3,$25119
+"Fairfield town, Somerset County,Maine",Town,1990,P080A STF3,$26868
+"Falmouth town, Cumberland County,Maine",Town,1990,P080A STF3,$44863
+"Farmingdale town, Kennebec County,Maine",Town,1990,P080A STF3,$29861
+"Farmington town, Franklin County,Maine",Town,1990,P080A STF3,$22328
+"Fayette town, Kennebec County,Maine",Town,1990,P080A STF3,$28947
+"Fort Fairfield town, Aroostook County,Maine",Town,1990,P080A STF3,$21429
+"Fort Kent town, Aroostook County,Maine",Town,1990,P080A STF3,$24075
+"Frankfort town, Waldo County,Maine",Town,1990,P080A STF3,$22163
+"Franklin town, Hancock County,Maine",Town,1990,P080A STF3,$25417
+"Freedom town, Waldo County,Maine",Town,1990,P080A STF3,$20694
+"Freeport town, Cumberland County,Maine",Town,1990,P080A STF3,$37150
+"Frenchboro town, Hancock County,Maine",Town,1990,P080A STF3,$16875
+"Frenchville town, Aroostook County,Maine",Town,1990,P080A STF3,$29766
+"Friendship town, Knox County,Maine",Town,1990,P080A STF3,$26176
+"Fryeburg town, Oxford County,Maine",Town,1990,P080A STF3,$27071
+"Gardiner city, Kennebec County,Maine",Town,1990,P080A STF3,$27330
+"Garfield plantation, Aroostook County,Maine",Town,1990,P080A STF3,$35938
+"Garland town, Penobscot County,Maine",Town,1990,P080A STF3,$21630
+"Georgetown town, Sagadahoc County,Maine",Town,1990,P080A STF3,$28967
+"Gilead town, Oxford County,Maine",Town,1990,P080A STF3,$20288
+"Glenburn town, Penobscot County,Maine",Town,1990,P080A STF3,$32277
+"Glenwood plantation, Aroostook County,Maine",Town,1990,P080A STF3,$5360
+"Gorham town, Cumberland County,Maine",Town,1990,P080A STF3,$36618
+"Gouldsboro town, Hancock County,Maine",Town,1990,P080A STF3,$24617
+"Grand Isle town, Aroostook County,Maine",Town,1990,P080A STF3,$22647
+"Grand Lake Stream plantation, Washington County,Maine",Town,1990,P080A STF3,$19000
+"Gray town, Cumberland County,Maine",Town,1990,P080A STF3,$37705
+"Great Pond town, Hancock County,Maine",Town,1990,P080A STF3,$30417
+"Greenbush town, Penobscot County,Maine",Town,1990,P080A STF3,$25658
+"Greene town, Androscoggin County,Maine",Town,1990,P080A STF3,$32897
+"Greenfield town, Penobscot County,Maine",Town,1990,P080A STF3,$22500
+"Greenville town, Piscataquis County,Maine",Town,1990,P080A STF3,$20417
+"Greenwood town, Oxford County,Maine",Town,1990,P080A STF3,$26806
+"Guilford town, Piscataquis County,Maine",Town,1990,P080A STF3,$21031
+"Hallowell city, Kennebec County,Maine",Town,1990,P080A STF3,$31161
+"Hamlin town, Aroostook County,Maine",Town,1990,P080A STF3,$20139
+"Hammond town, Aroostook County,Maine",Town,1990,P080A STF3,$21875
+"Hampden town, Penobscot County,Maine",Town,1990,P080A STF3,$32595
+"Hancock town, Hancock County,Maine",Town,1990,P080A STF3,$23011
+"Hanover town, Oxford County,Maine",Town,1990,P080A STF3,$33750
+"Harmony town, Somerset County,Maine",Town,1990,P080A STF3,$17361
+"Harpswell town, Cumberland County,Maine",Town,1990,P080A STF3,$33298
+"Harrington town, Washington County,Maine",Town,1990,P080A STF3,$16758
+"Harrison town, Cumberland County,Maine",Town,1990,P080A STF3,$29009
+"Hartford town, Oxford County,Maine",Town,1990,P080A STF3,$29659
+"Hartland town, Somerset County,Maine",Town,1990,P080A STF3,$23162
+"Haynesville town, Aroostook County,Maine",Town,1990,P080A STF3,$26071
+"Hebron town, Oxford County,Maine",Town,1990,P080A STF3,$31250
+"Hermon town, Penobscot County,Maine",Town,1990,P080A STF3,$31935
+"Hersey town, Aroostook County,Maine",Town,1990,P080A STF3,$18750
+"Hibberts gore, Lincoln County,Maine",Town,1990,P080A STF3,$0
+"Highland plantation, Somerset County,Maine",Town,1990,P080A STF3,$7875
+"Hiram town, Oxford County,Maine",Town,1990,P080A STF3,$25152
+"Hodgdon town, Aroostook County,Maine",Town,1990,P080A STF3,$21458
+"Holden town, Penobscot County,Maine",Town,1990,P080A STF3,$31141
+"Hollis town, York County,Maine",Town,1990,P080A STF3,$33658
+"Hope town, Knox County,Maine",Town,1990,P080A STF3,$25787
+"Houlton town, Aroostook County,Maine",Town,1990,P080A STF3,$20316
+"Howland town, Penobscot County,Maine",Town,1990,P080A STF3,$23576
+"Hudson town, Penobscot County,Maine",Town,1990,P080A STF3,$27069
+"Industry town, Franklin County,Maine",Town,1990,P080A STF3,$26902
+"Island Falls town, Aroostook County,Maine",Town,1990,P080A STF3,$22772
+"Isle au Haut town, Knox County,Maine",Town,1990,P080A STF3,$16000
+"Islesboro town, Waldo County,Maine",Town,1990,P080A STF3,$23068
+"Jackman town, Somerset County,Maine",Town,1990,P080A STF3,$21719
+"Jackson town, Waldo County,Maine",Town,1990,P080A STF3,$22353
+"Jay town, Franklin County,Maine",Town,1990,P080A STF3,$25769
+"Jefferson town, Lincoln County,Maine",Town,1990,P080A STF3,$31500
+"Jonesboro town, Washington County,Maine",Town,1990,P080A STF3,$25074
+"Jonesport town, Washington County,Maine",Town,1990,P080A STF3,$15574
+"Kenduskeag town, Penobscot County,Maine",Town,1990,P080A STF3,$25880
+"Kennebunk town, York County,Maine",Town,1990,P080A STF3,$38227
+"Kennebunkport town, York County,Maine",Town,1990,P080A STF3,$34837
+"Kingfield town, Franklin County,Maine",Town,1990,P080A STF3,$27045
+"Kingman unorg., Penobscot County,Maine",Town,1990,P080A STF3,$18864
+"Kingsbury plantation, Piscataquis County,Maine",Town,1990,P080A STF3,$60383
+"Kittery town, York County,Maine",Town,1990,P080A STF3,$33793
+"Knox town, Waldo County,Maine",Town,1990,P080A STF3,$20000
+"Lagrange town, Penobscot County,Maine",Town,1990,P080A STF3,$24500
+"Lake View plantation, Piscataquis County,Maine",Town,1990,P080A STF3,$14750
+"Lakeville town, Penobscot County,Maine",Town,1990,P080A STF3,$14375
+"Lamoine town, Hancock County,Maine",Town,1990,P080A STF3,$30625
+"Lebanon town, York County,Maine",Town,1990,P080A STF3,$33432
+"Lee town, Penobscot County,Maine",Town,1990,P080A STF3,$27813
+"Leeds town, Androscoggin County,Maine",Town,1990,P080A STF3,$29777
+"Levant town, Penobscot County,Maine",Town,1990,P080A STF3,$27461
+"Lewiston city, Androscoggin County,Maine",Town,1990,P080A STF3,$24051
+"Liberty town, Waldo County,Maine",Town,1990,P080A STF3,$19511
+"Limerick town, York County,Maine",Town,1990,P080A STF3,$30256
+"Limestone town, Aroostook County,Maine",Town,1990,P080A STF3,$22081
+"Limington town, York County,Maine",Town,1990,P080A STF3,$30864
+"Lincoln plantation, Oxford County,Maine",Town,1990,P080A STF3,$37500
+"Lincoln town, Penobscot County,Maine",Town,1990,P080A STF3,$23144
+"Lincolnville town, Waldo County,Maine",Town,1990,P080A STF3,$25526
+"Linneus town, Aroostook County,Maine",Town,1990,P080A STF3,$22829
+"Lisbon town, Androscoggin County,Maine",Town,1990,P080A STF3,$30356
+"Litchfield town, Kennebec County,Maine",Town,1990,P080A STF3,$30625
+"Littleton town, Aroostook County,Maine",Town,1990,P080A STF3,$24306
+"Livermore Falls town, Androscoggin County,Maine",Town,1990,P080A STF3,$22446
+"Livermore town, Androscoggin County,Maine",Town,1990,P080A STF3,$27431
+"Lovell town, Oxford County,Maine",Town,1990,P080A STF3,$25110
+"Lowell town, Penobscot County,Maine",Town,1990,P080A STF3,$24833
+"Lubec town, Washington County,Maine",Town,1990,P080A STF3,$14398
+"Ludlow town, Aroostook County,Maine",Town,1990,P080A STF3,$21765
+"Lyman town, York County,Maine",Town,1990,P080A STF3,$36875
+"Machias town, Washington County,Maine",Town,1990,P080A STF3,$19406
+"Machiasport town, Washington County,Maine",Town,1990,P080A STF3,$24412
+"Macwahoc plantation, Aroostook County,Maine",Town,1990,P080A STF3,$23333
+"Madawaska town, Aroostook County,Maine",Town,1990,P080A STF3,$29112
+"Madison town, Somerset County,Maine",Town,1990,P080A STF3,$21720
+"Madrid town, Franklin County,Maine",Town,1990,P080A STF3,$22625
+"Magalloway plantation, Oxford County,Maine",Town,1990,P080A STF3,$20000
+"Manchester town, Kennebec County,Maine",Town,1990,P080A STF3,$37750
+"Mapleton town, Aroostook County,Maine",Town,1990,P080A STF3,$26103
+"Mariaville town, Hancock County,Maine",Town,1990,P080A STF3,$24205
+"Mars Hill town, Aroostook County,Maine",Town,1990,P080A STF3,$18114
+"Marshfield town, Washington County,Maine",Town,1990,P080A STF3,$33250
+"Masardis town, Aroostook County,Maine",Town,1990,P080A STF3,$21083
+"Matinicus Isle plantation, Knox County,Maine",Town,1990,P080A STF3,$21667
+"Mattawamkeag town, Penobscot County,Maine",Town,1990,P080A STF3,$23088
+"Maxfield town, Penobscot County,Maine",Town,1990,P080A STF3,$35357
+"Mechanic Falls town, Androscoggin County,Maine",Town,1990,P080A STF3,$25909
+"Meddybemps town, Washington County,Maine",Town,1990,P080A STF3,$17188
+"Medford town, Piscataquis County,Maine",Town,1990,P080A STF3,$23026
+"Medway town, Penobscot County,Maine",Town,1990,P080A STF3,$32014
+"Mercer town, Somerset County,Maine",Town,1990,P080A STF3,$30750
+"Merrill town, Aroostook County,Maine",Town,1990,P080A STF3,$19038
+"Mexico town, Oxford County,Maine",Town,1990,P080A STF3,$21671
+"Milbridge town, Washington County,Maine",Town,1990,P080A STF3,$17118
+"Milford town, Penobscot County,Maine",Town,1990,P080A STF3,$26821
+"Millinocket town, Penobscot County,Maine",Town,1990,P080A STF3,$32344
+"Milo town, Piscataquis County,Maine",Town,1990,P080A STF3,$21473
+"Milton unorg., Oxford County,Maine",Town,1990,P080A STF3,$39688
+"Minot town, Androscoggin County,Maine",Town,1990,P080A STF3,$33036
+"Monhegan plantation, Lincoln County,Maine",Town,1990,P080A STF3,$23750
+"Monmouth town, Kennebec County,Maine",Town,1990,P080A STF3,$30033
+"Monroe town, Waldo County,Maine",Town,1990,P080A STF3,$25114
+"Monson town, Piscataquis County,Maine",Town,1990,P080A STF3,$23021
+"Monticello town, Aroostook County,Maine",Town,1990,P080A STF3,$20380
+"Montville town, Waldo County,Maine",Town,1990,P080A STF3,$24219
+"Moose River town, Somerset County,Maine",Town,1990,P080A STF3,$30625
+"Moro plantation, Aroostook County,Maine",Town,1990,P080A STF3,$16875
+"Morrill town, Waldo County,Maine",Town,1990,P080A STF3,$24423
+"Moscow town, Somerset County,Maine",Town,1990,P080A STF3,$18864
+"Mount Chase town, Penobscot County,Maine",Town,1990,P080A STF3,$19063
+"Mount Desert town, Hancock County,Maine",Town,1990,P080A STF3,$31019
+"Mount Vernon town, Kennebec County,Maine",Town,1990,P080A STF3,$29219
+"Naples town, Cumberland County,Maine",Town,1990,P080A STF3,$27721
+"Nashville plantation, Aroostook County,Maine",Town,1990,P080A STF3,$20000
+"New Canada town, Aroostook County,Maine",Town,1990,P080A STF3,$29167
+"New Gloucester town, Cumberland County,Maine",Town,1990,P080A STF3,$34034
+"New Limerick town, Aroostook County,Maine",Town,1990,P080A STF3,$27375
+"New Portland town, Somerset County,Maine",Town,1990,P080A STF3,$21424
+"New Sharon town, Franklin County,Maine",Town,1990,P080A STF3,$25101
+"New Sweden town, Aroostook County,Maine",Town,1990,P080A STF3,$21576
+"New Vineyard town, Franklin County,Maine",Town,1990,P080A STF3,$20764
+"Newburgh town, Penobscot County,Maine",Town,1990,P080A STF3,$30375
+"Newcastle town, Lincoln County,Maine",Town,1990,P080A STF3,$33368
+"Newfield town, York County,Maine",Town,1990,P080A STF3,$30341
+"Newport town, Penobscot County,Maine",Town,1990,P080A STF3,$22432
+"Newry town, Oxford County,Maine",Town,1990,P080A STF3,$26250
+"Nobleboro town, Lincoln County,Maine",Town,1990,P080A STF3,$28846
+"Norridgewock town, Somerset County,Maine",Town,1990,P080A STF3,$26140
+"North Berwick town, York County,Maine",Town,1990,P080A STF3,$37845
+"North Franklin unorg., Franklin County,Maine",Town,1990,P080A STF3,$18333
+"North Haven town, Knox County,Maine",Town,1990,P080A STF3,$24375
+"North Oxford unorg., Oxford County,Maine",Town,1990,P080A STF3,$4999
+"North Penobscot unorg., Penobscot County,Maine",Town,1990,P080A STF3,$22450
+"North Washington unorg., Washington County,Maine",Town,1990,P080A STF3,$21328
+"North Yarmouth town, Cumberland County,Maine",Town,1990,P080A STF3,$41488
+"Northeast Piscataquis unorg., Piscataquis County,Maine",Town,1990,P080A STF3,$17298
+"Northeast Somerset unorg., Somerset County,Maine",Town,1990,P080A STF3,$23750
+"Northfield town, Washington County,Maine",Town,1990,P080A STF3,$17083
+"Northport town, Waldo County,Maine",Town,1990,P080A STF3,$23798
+"Northwest Aroostook unorg., Aroostook County,Maine",Town,1990,P080A STF3,$48056
+"Northwest Hancock unorg., Hancock County,Maine",Town,1990,P080A STF3,$0
+"Northwest Piscataquis unorg., Piscataquis County,Maine",Town,1990,P080A STF3,$21667
+"Northwest Somerset unorg., Somerset County,Maine",Town,1990,P080A STF3,$0
+"Norway town, Oxford County,Maine",Town,1990,P080A STF3,$22154
+"Oakfield town, Aroostook County,Maine",Town,1990,P080A STF3,$20536
+"Oakland town, Kennebec County,Maine",Town,1990,P080A STF3,$28258
+"Ogunquit town, York County,Maine",Town,1990,P080A STF3,$31250
+"Old Orchard Beach town, York County,Maine",Town,1990,P080A STF3,$28253
+"Old Town city, Penobscot County,Maine",Town,1990,P080A STF3,$22890
+"Orient town, Aroostook County,Maine",Town,1990,P080A STF3,$8429
+"Orland town, Hancock County,Maine",Town,1990,P080A STF3,$30726
+"Orono town, Penobscot County,Maine",Town,1990,P080A STF3,$27922
+"Orrington town, Penobscot County,Maine",Town,1990,P080A STF3,$34441
+"Osborn town, Hancock County,Maine",Town,1990,P080A STF3,$19750
+"Otis town, Hancock County,Maine",Town,1990,P080A STF3,$31094
+"Otisfield town, Oxford County,Maine",Town,1990,P080A STF3,$26983
+"Owls Head town, Knox County,Maine",Town,1990,P080A STF3,$30647
+"Oxbow plantation, Aroostook County,Maine",Town,1990,P080A STF3,$13750
+"Oxford town, Oxford County,Maine",Town,1990,P080A STF3,$26379
+"Palermo town, Waldo County,Maine",Town,1990,P080A STF3,$26576
+"Palmyra town, Somerset County,Maine",Town,1990,P080A STF3,$23393
+"Paris town, Oxford County,Maine",Town,1990,P080A STF3,$23882
+"Parkman town, Piscataquis County,Maine",Town,1990,P080A STF3,$17411
+"Parsonsfield town, York County,Maine",Town,1990,P080A STF3,$26250
+"Passadumkeag town, Penobscot County,Maine",Town,1990,P080A STF3,$27692
+"Passamaquoddy Indian Township Reservation, Washington County,Maine",Town,1990,P080A STF3,$17750
+"Passamaquoddy Pleasant Point Reservation, Washington County,Maine",Town,1990,P080A STF3,$18333
+"Patten town, Penobscot County,Maine",Town,1990,P080A STF3,$20104
+"Pembroke town, Washington County,Maine",Town,1990,P080A STF3,$16613
+"Penobscot Indian Island Reservation, Penobscot County,Maine",Town,1990,P080A STF3,$14688
+"Penobscot town, Hancock County,Maine",Town,1990,P080A STF3,$25391
+"Perham town, Aroostook County,Maine",Town,1990,P080A STF3,$21250
+"Perkins unorg., Sagadahoc County,Maine",Town,1990,P080A STF3,$0
+"Perry town, Washington County,Maine",Town,1990,P080A STF3,$25893
+"Peru town, Oxford County,Maine",Town,1990,P080A STF3,$26354
+"Phillips town, Franklin County,Maine",Town,1990,P080A STF3,$19837
+"Phippsburg town, Sagadahoc County,Maine",Town,1990,P080A STF3,$30822
+"Pittsfield town, Somerset County,Maine",Town,1990,P080A STF3,$22787
+"Pittston town, Kennebec County,Maine",Town,1990,P080A STF3,$36250
+"Pleasant Ridge plantation, Somerset County,Maine",Town,1990,P080A STF3,$16250
+"Plymouth town, Penobscot County,Maine",Town,1990,P080A STF3,$25349
+"Poland town, Androscoggin County,Maine",Town,1990,P080A STF3,$30296
+"Portage Lake town, Aroostook County,Maine",Town,1990,P080A STF3,$25865
+"Porter town, Oxford County,Maine",Town,1990,P080A STF3,$22203
+"Portland city, Cumberland County,Maine",Town,1990,P080A STF3,$26576
+"Pownal town, Cumberland County,Maine",Town,1990,P080A STF3,$38450
+"Prentiss plantation, Penobscot County,Maine",Town,1990,P080A STF3,$12232
+"Presque Isle city, Aroostook County,Maine",Town,1990,P080A STF3,$23053
+"Princeton town, Washington County,Maine",Town,1990,P080A STF3,$23173
+"Prospect town, Waldo County,Maine",Town,1990,P080A STF3,$30469
+"Randolph town, Kennebec County,Maine",Town,1990,P080A STF3,$28389
+"Rangeley plantation, Franklin County,Maine",Town,1990,P080A STF3,$21250
+"Rangeley town, Franklin County,Maine",Town,1990,P080A STF3,$22850
+"Raymond town, Cumberland County,Maine",Town,1990,P080A STF3,$40133
+"Readfield town, Kennebec County,Maine",Town,1990,P080A STF3,$36536
+"Reed plantation, Aroostook County,Maine",Town,1990,P080A STF3,$18333
+"Richmond town, Sagadahoc County,Maine",Town,1990,P080A STF3,$27639
+"Ripley town, Somerset County,Maine",Town,1990,P080A STF3,$25000
+"Robbinston town, Washington County,Maine",Town,1990,P080A STF3,$23906
+"Rockland city, Knox County,Maine",Town,1990,P080A STF3,$22006
+"Rockport town, Knox County,Maine",Town,1990,P080A STF3,$31361
+"Rome town, Kennebec County,Maine",Town,1990,P080A STF3,$31250
+"Roque Bluffs town, Washington County,Maine",Town,1990,P080A STF3,$21875
+"Roxbury town, Oxford County,Maine",Town,1990,P080A STF3,$25781
+"Rumford town, Oxford County,Maine",Town,1990,P080A STF3,$21608
+"Sabattus town, Androscoggin County,Maine",Town,1990,P080A STF3,$30039
+"Saco city, York County,Maine",Town,1990,P080A STF3,$32655
+"Sandy River plantation, Franklin County,Maine",Town,1990,P080A STF3,$35417
+"Sanford town, York County,Maine",Town,1990,P080A STF3,$27824
+"Sangerville town, Piscataquis County,Maine",Town,1990,P080A STF3,$23565
+"Scarborough town, Cumberland County,Maine",Town,1990,P080A STF3,$40718
+"Searsmont town, Waldo County,Maine",Town,1990,P080A STF3,$24063
+"Searsport town, Waldo County,Maine",Town,1990,P080A STF3,$23255
+"Sebago town, Cumberland County,Maine",Town,1990,P080A STF3,$29219
+"Sebec town, Piscataquis County,Maine",Town,1990,P080A STF3,$25547
+"Seboeis plantation, Penobscot County,Maine",Town,1990,P080A STF3,$13438
+"Seboomook Lake unorg., Somerset County,Maine",Town,1990,P080A STF3,$11250
+"Sedgwick town, Hancock County,Maine",Town,1990,P080A STF3,$20074
+"Shapleigh town, York County,Maine",Town,1990,P080A STF3,$30725
+"Sherman town, Aroostook County,Maine",Town,1990,P080A STF3,$22454
+"Shirley town, Piscataquis County,Maine",Town,1990,P080A STF3,$23750
+"Sidney town, Kennebec County,Maine",Town,1990,P080A STF3,$35123
+"Skowhegan town, Somerset County,Maine",Town,1990,P080A STF3,$22165
+"Smithfield town, Somerset County,Maine",Town,1990,P080A STF3,$27083
+"Smyrna town, Aroostook County,Maine",Town,1990,P080A STF3,$17813
+"Solon town, Somerset County,Maine",Town,1990,P080A STF3,$19250
+"Somerville town, Lincoln County,Maine",Town,1990,P080A STF3,$30667
+"Sorrento town, Hancock County,Maine",Town,1990,P080A STF3,$19792
+"South Aroostook unorg., Aroostook County,Maine",Town,1990,P080A STF3,$23036
+"South Berwick town, York County,Maine",Town,1990,P080A STF3,$37770
+"South Bristol town, Lincoln County,Maine",Town,1990,P080A STF3,$27188
+"South Franklin unorg., Franklin County,Maine",Town,1990,P080A STF3,$33750
+"South Oxford unorg., Oxford County,Maine",Town,1990,P080A STF3,$33571
+"South Portland city, Cumberland County,Maine",Town,1990,P080A STF3,$31877
+"South Thomaston town, Knox County,Maine",Town,1990,P080A STF3,$26402
+"Southeast Piscataquis unorg., Piscataquis County,Maine",Town,1990,P080A STF3,$25417
+"Southport town, Lincoln County,Maine",Town,1990,P080A STF3,$30375
+"Southwest Harbor town, Hancock County,Maine",Town,1990,P080A STF3,$25290
+"Springfield town, Penobscot County,Maine",Town,1990,P080A STF3,$23295
+"Square Lake unorg., Aroostook County,Maine",Town,1990,P080A STF3,$17679
+"St. Agatha town, Aroostook County,Maine",Town,1990,P080A STF3,$25735
+"St. Albans town, Somerset County,Maine",Town,1990,P080A STF3,$25325
+"St. Francis town, Aroostook County,Maine",Town,1990,P080A STF3,$16389
+"St. George town, Knox County,Maine",Town,1990,P080A STF3,$24828
+"St. John plantation, Aroostook County,Maine",Town,1990,P080A STF3,$22750
+"Stacyville town, Penobscot County,Maine",Town,1990,P080A STF3,$20481
+"Standish town, Cumberland County,Maine",Town,1990,P080A STF3,$34503
+"Starks town, Somerset County,Maine",Town,1990,P080A STF3,$22143
+"Stetson town, Penobscot County,Maine",Town,1990,P080A STF3,$22250
+"Steuben town, Washington County,Maine",Town,1990,P080A STF3,$16250
+"Stockholm town, Aroostook County,Maine",Town,1990,P080A STF3,$27292
+"Stockton Springs town, Waldo County,Maine",Town,1990,P080A STF3,$29769
+"Stoneham town, Oxford County,Maine",Town,1990,P080A STF3,$21250
+"Stonington town, Hancock County,Maine",Town,1990,P080A STF3,$19038
+"Stow town, Oxford County,Maine",Town,1990,P080A STF3,$35735
+"Strong town, Franklin County,Maine",Town,1990,P080A STF3,$22937
+"Sullivan town, Hancock County,Maine",Town,1990,P080A STF3,$20815
+"Sumner town, Oxford County,Maine",Town,1990,P080A STF3,$27813
+"Surry town, Hancock County,Maine",Town,1990,P080A STF3,$28194
+"Swans Island town, Hancock County,Maine",Town,1990,P080A STF3,$17639
+"Swanville town, Waldo County,Maine",Town,1990,P080A STF3,$21250
+"Sweden town, Oxford County,Maine",Town,1990,P080A STF3,$26875
+"Talmadge town, Washington County,Maine",Town,1990,P080A STF3,$7515
+"Temple town, Franklin County,Maine",Town,1990,P080A STF3,$30000
+"The Forks plantation, Somerset County,Maine",Town,1990,P080A STF3,$17917
+"Thomaston town, Knox County,Maine",Town,1990,P080A STF3,$25332
+"Thorndike town, Waldo County,Maine",Town,1990,P080A STF3,$19773
+"Topsfield town, Washington County,Maine",Town,1990,P080A STF3,$24375
+"Topsham town, Sagadahoc County,Maine",Town,1990,P080A STF3,$34287
+"Tremont town, Hancock County,Maine",Town,1990,P080A STF3,$26012
+"Trenton town, Hancock County,Maine",Town,1990,P080A STF3,$29760
+"Troy town, Waldo County,Maine",Town,1990,P080A STF3,$21548
+"Turner town, Androscoggin County,Maine",Town,1990,P080A STF3,$29989
+"Twombly unorg., Penobscot County,Maine",Town,1990,P080A STF3,$0
+"Union town, Knox County,Maine",Town,1990,P080A STF3,$27765
+"Unity town, Waldo County,Maine",Town,1990,P080A STF3,$19783
+"Unity unorg., Kennebec County,Maine",Town,1990,P080A STF3,$9458
+"Upton town, Oxford County,Maine",Town,1990,P080A STF3,$26250
+"Van Buren town, Aroostook County,Maine",Town,1990,P080A STF3,$15250
+"Vanceboro town, Washington County,Maine",Town,1990,P080A STF3,$18409
+"Vassalboro town, Kennebec County,Maine",Town,1990,P080A STF3,$28820
+"Veazie town, Penobscot County,Maine",Town,1990,P080A STF3,$29917
+"Verona town, Hancock County,Maine",Town,1990,P080A STF3,$30000
+"Vienna town, Kennebec County,Maine",Town,1990,P080A STF3,$27604
+"Vinalhaven town, Knox County,Maine",Town,1990,P080A STF3,$19706
+"Wade town, Aroostook County,Maine",Town,1990,P080A STF3,$23750
+"Waite town, Washington County,Maine",Town,1990,P080A STF3,$26250
+"Waldo town, Waldo County,Maine",Town,1990,P080A STF3,$19196
+"Waldoboro town, Lincoln County,Maine",Town,1990,P080A STF3,$23281
+"Wales town, Androscoggin County,Maine",Town,1990,P080A STF3,$30647
+"Wallagrass plantation, Aroostook County,Maine",Town,1990,P080A STF3,$21750
+"Waltham town, Hancock County,Maine",Town,1990,P080A STF3,$23472
+"Warren town, Knox County,Maine",Town,1990,P080A STF3,$22808
+"Washburn town, Aroostook County,Maine",Town,1990,P080A STF3,$23922
+"Washington town, Knox County,Maine",Town,1990,P080A STF3,$24000
+"Waterboro town, York County,Maine",Town,1990,P080A STF3,$31260
+"Waterford town, Oxford County,Maine",Town,1990,P080A STF3,$28438
+"Waterville city, Kennebec County,Maine",Town,1990,P080A STF3,$22617
+"Wayne town, Kennebec County,Maine",Town,1990,P080A STF3,$38000
+"Webster plantation, Penobscot County,Maine",Town,1990,P080A STF3,$14688
+"Weld town, Franklin County,Maine",Town,1990,P080A STF3,$27000
+"Wellington town, Piscataquis County,Maine",Town,1990,P080A STF3,$15469
+"Wells town, York County,Maine",Town,1990,P080A STF3,$35035
+"Wesley town, Washington County,Maine",Town,1990,P080A STF3,$15500
+"West Bath town, Sagadahoc County,Maine",Town,1990,P080A STF3,$38333
+"West Central Franklin unorg., Franklin County,Maine",Town,1990,P080A STF3,$0
+"West Forks plantation, Somerset County,Maine",Town,1990,P080A STF3,$15625
+"West Gardiner town, Kennebec County,Maine",Town,1990,P080A STF3,$34219
+"West Paris town, Oxford County,Maine",Town,1990,P080A STF3,$20128
+"Westbrook city, Cumberland County,Maine",Town,1990,P080A STF3,$29833
+"Westfield town, Aroostook County,Maine",Town,1990,P080A STF3,$20714
+"Westmanland town, Aroostook County,Maine",Town,1990,P080A STF3,$13750
+"Weston town, Aroostook County,Maine",Town,1990,P080A STF3,$16563
+"Westport town, Lincoln County,Maine",Town,1990,P080A STF3,$33500
+"Whitefield town, Lincoln County,Maine",Town,1990,P080A STF3,$28272
+"Whiting town, Washington County,Maine",Town,1990,P080A STF3,$21731
+"Whitney unorg., Penobscot County,Maine",Town,1990,P080A STF3,$0
+"Whitneyville town, Washington County,Maine",Town,1990,P080A STF3,$18750
+"Willimantic town, Piscataquis County,Maine",Town,1990,P080A STF3,$26932
+"Wilton town, Franklin County,Maine",Town,1990,P080A STF3,$27833
+"Windham town, Cumberland County,Maine",Town,1990,P080A STF3,$37245
+"Windsor town, Kennebec County,Maine",Town,1990,P080A STF3,$29327
+"Winn town, Penobscot County,Maine",Town,1990,P080A STF3,$21786
+"Winslow town, Kennebec County,Maine",Town,1990,P080A STF3,$30218
+"Winter Harbor town, Hancock County,Maine",Town,1990,P080A STF3,$19712
+"Winterport town, Waldo County,Maine",Town,1990,P080A STF3,$30852
+"Winterville plantation, Aroostook County,Maine",Town,1990,P080A STF3,$19792
+"Winthrop town, Kennebec County,Maine",Town,1990,P080A STF3,$35203
+"Wiscasset town, Lincoln County,Maine",Town,1990,P080A STF3,$29397
+"Woodland town, Aroostook County,Maine",Town,1990,P080A STF3,$24292
+"Woodstock town, Oxford County,Maine",Town,1990,P080A STF3,$23580
+"Woodville town, Penobscot County,Maine",Town,1990,P080A STF3,$36875
+"Woolwich town, Sagadahoc County,Maine",Town,1990,P080A STF3,$35250
+"Wyman unorg., Franklin County,Maine",Town,1990,P080A STF3,$32500
+"Yarmouth town, Cumberland County,Maine",Town,1990,P080A STF3,$40191
+"York town, York County,Maine",Town,1990,P080A STF3,$39088
+Maine,State,2000,P53 STF3,$37240
+"Androscoggin County,Maine",County,2000,P53 STF3,$35793
+"Aroostook County,Maine",County,2000,P53 STF3,$28837
+"Cumberland County,Maine",County,2000,P53 STF3,$44048
+"Franklin County,Maine",County,2000,P53 STF3,$31459
+"Hancock County,Maine",County,2000,P53 STF3,$35811
+"Kennebec County,Maine",County,2000,P53 STF3,$36498
+"Knox County,Maine",County,2000,P53 STF3,$36774
+"Lincoln County,Maine",County,2000,P53 STF3,$38686
+"Oxford County,Maine",County,2000,P53 STF3,$33435
+"Penobscot County,Maine",County,2000,P53 STF3,$34274
+"Piscataquis County,Maine",County,2000,P53 STF3,$28250
+"Sagadahoc County,Maine",County,2000,P53 STF3,$41908
+"Somerset County,Maine",County,2000,P53 STF3,$30731
+"Waldo County,Maine",County,2000,P53 STF3,$33986
+"Washington County,Maine",County,2000,P53 STF3,$25869
+"York County,Maine",County,2000,P53 STF3,$43630
+"Abbot town, Piscataquis County,Maine",Town,2000,P53 STF3,$33229
+"Acton town, York County, Maine",Town,2000,P53 STF3,$39036
+"Addison town, Washington County,Maine",Town,2000,P53 STF3,$26083
+"Albion town, Kennebec County,Maine",Town,2000,P53 STF3,$35357
+"Alexander town, Washington County,Maine",Town,2000,P53 STF3,$29306
+"Alfred town, York County, Maine",Town,2000,P53 STF3,$40583
+"Allagash town, Aroostook County,Maine",Town,2000,P53 STF3,$18125
+"Alna town, Lincoln County,Maine",Town,2000,P53 STF3,$43125
+"Alton town, Penobscot County,Maine",Town,2000,P53 STF3,$35263
+"Amherst town, Hancock County,Maine",Town,2000,P53 STF3,$26042
+"Amity town, Aroostook County,Maine",Town,2000,P53 STF3,$26667
+"Andover town, Oxford County,Maine",Town,2000,P53 STF3,$36058
+"Anson town, Somerset County,Maine",Town,2000,P53 STF3,$26088
+"Appleton town, Knox County,Maine",Town,2000,P53 STF3,$36615
+"Argyle UT, Penobscot County,Maine",Town,2000,P53 STF3,$35714
+"Arrowsic town, Sagadahoc County,Maine",Town,2000,P53 STF3,$53250
+"Arundel town, York County, Maine",Town,2000,P53 STF3,$49484
+"Ashland town, Aroostook County,Maine",Town,2000,P53 STF3,$33472
+"Athens town, Somerset County,Maine",Town,2000,P53 STF3,$24813
+"Atkinson town, Piscataquis County,Maine",Town,2000,P53 STF3,$29821
+"Auburn city, Androscoggin County,Maine",Town,2000,P53 STF3,$35652
+"Augusta city, Kennebec County,Maine",Town,2000,P53 STF3,$29921
+"Aurora town, Hancock County,Maine",Town,2000,P53 STF3,$26250
+"Avon town, Franklin County,Maine",Town,2000,P53 STF3,$29722
+"Baileyville town, Washington County,Maine",Town,2000,P53 STF3,$31658
+"Baldwin town, Cumberland County,Maine",Town,2000,P53 STF3,$36500
+"Bancroft town, Aroostook County,Maine",Town,2000,P53 STF3,$16250
+"Bangor city, Penobscot County,Maine",Town,2000,P53 STF3,$29740
+"Bar Harbor town, Hancock County,Maine",Town,2000,P53 STF3,$37481
+"Baring plantation, Washington County,Maine",Town,2000,P53 STF3,$30536
+"Bath city, Sagadahoc County,Maine",Town,2000,P53 STF3,$36372
+"Beals town, Washington County,Maine",Town,2000,P53 STF3,$29375
+"Beaver Cove town, Piscataquis County,Maine",Town,2000,P53 STF3,$23500
+"Beddington town, Washington County,Maine",Town,2000,P53 STF3,$24375
+"Belfast city, Waldo County,Maine",Town,2000,P53 STF3,$32400
+"Belgrade town, Kennebec County,Maine",Town,2000,P53 STF3,$39053
+"Belmont town, Waldo County,Maine",Town,2000,P53 STF3,$29013
+"Benton town, Kennebec County,Maine",Town,2000,P53 STF3,$38613
+"Berwick town, York County, Maine",Town,2000,P53 STF3,$44629
+"Bethel town, Oxford County,Maine",Town,2000,P53 STF3,$33803
+"Biddeford city, York County, Maine",Town,2000,P53 STF3,$34976
+"Bingham town, Somerset County,Maine",Town,2000,P53 STF3,$28200
+"Blaine town, Aroostook County,Maine",Town,2000,P53 STF3,$28693
+"Blanchard UT, Piscataquis County,Maine",Town,2000,P53 STF3,$13250
+"Blue Hill town, Hancock County,Maine",Town,2000,P53 STF3,$31484
+"Boothbay Harbor town, Lincoln County,Maine",Town,2000,P53 STF3,$35000
+"Boothbay town, Lincoln County,Maine",Town,2000,P53 STF3,$41406
+"Bowdoin town, Sagadahoc County,Maine",Town,2000,P53 STF3,$42688
+"Bowdoinham town, Sagadahoc County,Maine",Town,2000,P53 STF3,$44779
+"Bowerbank town, Piscataquis County,Maine",Town,2000,P53 STF3,$27917
+"Bradford town, Penobscot County,Maine",Town,2000,P53 STF3,$35216
+"Bradley town, Penobscot County,Maine",Town,2000,P53 STF3,$37163
+"Bremen town, Lincoln County,Maine",Town,2000,P53 STF3,$36167
+"Brewer city, Penobscot County,Maine",Town,2000,P53 STF3,$36949
+"Bridgewater town, Aroostook County,Maine",Town,2000,P53 STF3,$27679
+"Bridgton town, Cumberland County,Maine",Town,2000,P53 STF3,$36722
+"Brighton plantation, Somerset County,Maine",Town,2000,P53 STF3,$27083
+"Bristol town, Lincoln County,Maine",Town,2000,P53 STF3,$38400
+"Brooklin town, Hancock County,Maine",Town,2000,P53 STF3,$36786
+"Brooks town, Waldo County,Maine",Town,2000,P53 STF3,$30104
+"Brooksville town, Hancock County,Maine",Town,2000,P53 STF3,$36458
+"Brownfield town, Oxford County,Maine",Town,2000,P53 STF3,$33304
+"Brownville town, Piscataquis County,Maine",Town,2000,P53 STF3,$28167
+"Brunswick town, Cumberland County,Maine",Town,2000,P53 STF3,$40402
+"Buckfield town, Oxford County,Maine",Town,2000,P53 STF3,$36821
+"Bucksport town, Hancock County,Maine",Town,2000,P53 STF3,$34812
+"Burlington town, Penobscot County,Maine",Town,2000,P53 STF3,$28438
+"Burnham town, Waldo County,Maine",Town,2000,P53 STF3,$31071
+"Buxton town, York County, Maine",Town,2000,P53 STF3,$48958
+"Byron town, Oxford County,Maine",Town,2000,P53 STF3,$34375
+"Calais city, Washington County,Maine",Town,2000,P53 STF3,$24623
+"Cambridge town, Somerset County,Maine",Town,2000,P53 STF3,$28516
+"Camden town, Knox County,Maine",Town,2000,P53 STF3,$39877
+"Canaan town, Somerset County,Maine",Town,2000,P53 STF3,$29397
+"Canton town, Oxford County,Maine",Town,2000,P53 STF3,$32625
+"Cape Elizabeth town, Cumberland County,Maine",Town,2000,P53 STF3,$72359
+"Caratunk town, Somerset County,Maine",Town,2000,P53 STF3,$36591
+"Caribou city, Aroostook County,Maine",Town,2000,P53 STF3,$29485
+"Carmel town, Penobscot County,Maine",Town,2000,P53 STF3,$37645
+"Carrabassett Valley town, Franklin County,Maine",Town,2000,P53 STF3,$45357
+"Carroll plantation, Penobscot County,Maine",Town,2000,P53 STF3,$21786
+"Carthage town, Franklin County,Maine",Town,2000,P53 STF3,$29773
+"Cary plantation, Aroostook County,Maine",Town,2000,P53 STF3,$29500
+"Casco town, Cumberland County,Maine",Town,2000,P53 STF3,$41629
+"Castine town, Hancock County,Maine",Town,2000,P53 STF3,$46250
+"Castle Hill town, Aroostook County,Maine",Town,2000,P53 STF3,$31071
+"Caswell town, Aroostook County,Maine",Town,2000,P53 STF3,$20625
+"Centerville town, Washington County,Maine",Town,2000,P53 STF3,$26458
+"Central Aroostook UT, Aroostook County,Maine",Town,2000,P53 STF3,$20313
+"Central Hancock UT, Hancock County,Maine",Town,2000,P53 STF3,$25750
+"Central Somerset UT, Somerset County,Maine",Town,2000,P53 STF3,$26250
+"Chapman town, Aroostook County,Maine",Town,2000,P53 STF3,$37500
+"Charleston town, Penobscot County,Maine",Town,2000,P53 STF3,$36053
+"Charlotte town, Washington County,Maine",Town,2000,P53 STF3,$30391
+"Chelsea town, Kennebec County,Maine",Town,2000,P53 STF3,$40905
+"Cherryfield town, Washington County,Maine",Town,2000,P53 STF3,$21486
+"Chester town, Penobscot County,Maine",Town,2000,P53 STF3,$36250
+"Chesterville town, Franklin County,Maine",Town,2000,P53 STF3,$31563
+"China town, Kennebec County,Maine",Town,2000,P53 STF3,$41250
+"Clifton town, Penobscot County,Maine",Town,2000,P53 STF3,$36333
+"Clinton town, Kennebec County,Maine",Town,2000,P53 STF3,$32419
+"Codyville plantation, Washington County,Maine",Town,2000,P53 STF3,$68750
+"Columbia Falls town, Washington County,Maine",Town,2000,P53 STF3,$28864
+"Columbia town, Washington County,Maine",Town,2000,P53 STF3,$28125
+"Connor UT, Aroostook County,Maine",Town,2000,P53 STF3,$25417
+"Cooper town, Washington County,Maine",Town,2000,P53 STF3,$33125
+"Coplin plantation, Franklin County,Maine",Town,2000,P53 STF3,$27500
+"Corinna town, Penobscot County,Maine",Town,2000,P53 STF3,$32115
+"Corinth town, Penobscot County,Maine",Town,2000,P53 STF3,$37318
+"Cornish town, York County, Maine",Town,2000,P53 STF3,$38125
+"Cornville town, Somerset County,Maine",Town,2000,P53 STF3,$38015
+"Cranberry Isles town, Hancock County,Maine",Town,2000,P53 STF3,$39063
+"Crawford town, Washington County,Maine",Town,2000,P53 STF3,$43125
+"Criehaven UT, Knox County,Maine",Town,2000,P53 STF3,$0
+"Crystal town, Aroostook County,Maine",Town,2000,P53 STF3,$28472
+"Cumberland town, Cumberland County,Maine",Town,2000,P53 STF3,$67556
+"Cushing town, Knox County,Maine",Town,2000,P53 STF3,$40598
+"Cutler town, Washington County,Maine",Town,2000,P53 STF3,$30625
+"Cyr plantation, Aroostook County,Maine",Town,2000,P53 STF3,$32500
+"Dallas plantation, Franklin County,Maine",Town,2000,P53 STF3,$36875
+"Damariscotta town, Lincoln County,Maine",Town,2000,P53 STF3,$36188
+"Danforth town, Washington County,Maine",Town,2000,P53 STF3,$20769
+"Dayton town, York County, Maine",Town,2000,P53 STF3,$53056
+"Deblois town, Washington County,Maine",Town,2000,P53 STF3,$18750
+"Dedham town, Hancock County,Maine",Town,2000,P53 STF3,$47917
+"Deer Isle town, Hancock County,Maine",Town,2000,P53 STF3,$32826
+"Denmark town, Oxford County,Maine",Town,2000,P53 STF3,$40000
+"Dennistown plantation, Somerset County,Maine",Town,2000,P53 STF3,$85889
+"Dennysville town, Washington County,Maine",Town,2000,P53 STF3,$20000
+"Detroit town, Somerset County,Maine",Town,2000,P53 STF3,$29938
+"Dexter town, Penobscot County,Maine",Town,2000,P53 STF3,$26000
+"Dixfield town, Oxford County,Maine",Town,2000,P53 STF3,$36563
+"Dixmont town, Penobscot County,Maine",Town,2000,P53 STF3,$33654
+"Dover-Foxcroft town, Piscataquis County,Maine",Town,2000,P53 STF3,$30164
+"Dresden town, Lincoln County,Maine",Town,2000,P53 STF3,$41719
+"Drew plantation, Penobscot County,Maine",Town,2000,P53 STF3,$26667
+"Durham town, Androscoggin County,Maine",Town,2000,P53 STF3,$53846
+"Dyer Brook town, Aroostook County,Maine",Town,2000,P53 STF3,$46429
+"Eagle Lake town, Aroostook County,Maine",Town,2000,P53 STF3,$22159
+"East Central Franklin UT, Franklin County,Maine",Town,2000,P53 STF3,$33529
+"East Central Penobscot UT, Penobscot County,Maine",Town,2000,P53 STF3,$39375
+"East Central Washington UT, Washington County,Maine",Town,2000,P53 STF3,$25125
+"East Hancock UT, Hancock County,Maine",Town,2000,P53 STF3,$31875
+"East Machias town, Washington County,Maine",Town,2000,P53 STF3,$28073
+"East Millinocket town, Penobscot County,Maine",Town,2000,P53 STF3,$33542
+"Eastbrook town, Hancock County,Maine",Town,2000,P53 STF3,$31667
+"Easton town, Aroostook County,Maine",Town,2000,P53 STF3,$29922
+"Eastport city, Washington County,Maine",Town,2000,P53 STF3,$23488
+"Eddington town, Penobscot County,Maine",Town,2000,P53 STF3,$40250
+"Edgecomb town, Lincoln County,Maine",Town,2000,P53 STF3,$43833
+"Edinburg town, Penobscot County,Maine",Town,2000,P53 STF3,$52083
+"Eliot town, York County, Maine",Town,2000,P53 STF3,$52606
+"Ellsworth city, Hancock County,Maine",Town,2000,P53 STF3,$35938
+"Embden town, Somerset County,Maine",Town,2000,P53 STF3,$31397
+"Enfield town, Penobscot County,Maine",Town,2000,P53 STF3,$36458
+"Etna town, Penobscot County,Maine",Town,2000,P53 STF3,$33681
+"Eustis town, Franklin County,Maine",Town,2000,P53 STF3,$28000
+"Exeter town, Penobscot County,Maine",Town,2000,P53 STF3,$33929
+"Fairfield town, Somerset County,Maine",Town,2000,P53 STF3,$36462
+"Falmouth town, Cumberland County,Maine",Town,2000,P53 STF3,$66855
+"Farmingdale town, Kennebec County,Maine",Town,2000,P53 STF3,$37236
+"Farmington town, Franklin County,Maine",Town,2000,P53 STF3,$26814
+"Fayette town, Kennebec County,Maine",Town,2000,P53 STF3,$40000
+"Fort Fairfield town, Aroostook County,Maine",Town,2000,P53 STF3,$28563
+"Fort Kent town, Aroostook County,Maine",Town,2000,P53 STF3,$29547
+"Frankfort town, Waldo County,Maine",Town,2000,P53 STF3,$33333
+"Franklin town, Hancock County,Maine",Town,2000,P53 STF3,$32070
+"Freedom town, Waldo County,Maine",Town,2000,P53 STF3,$33125
+"Freeport town, Cumberland County,Maine",Town,2000,P53 STF3,$52023
+"Frenchboro town, Hancock County,Maine",Town,2000,P53 STF3,$38125
+"Frenchville town, Aroostook County,Maine",Town,2000,P53 STF3,$33214
+"Friendship town, Knox County,Maine",Town,2000,P53 STF3,$39348
+"Frye Island town, Cumberland County,Maine",Town,2000,P53 STF3,$0
+"Fryeburg town, Oxford County,Maine",Town,2000,P53 STF3,$34333
+"Gardiner city, Kennebec County,Maine",Town,2000,P53 STF3,$35103
+"Garfield plantation, Aroostook County,Maine",Town,2000,P53 STF3,$31250
+"Garland town, Penobscot County,Maine",Town,2000,P53 STF3,$27500
+"Georgetown town, Sagadahoc County,Maine",Town,2000,P53 STF3,$47813
+"Gilead town, Oxford County,Maine",Town,2000,P53 STF3,$25000
+"Glenburn town, Penobscot County,Maine",Town,2000,P53 STF3,$41885
+"Glenwood plantation, Aroostook County,Maine",Town,2000,P53 STF3,$0
+"Gorham town, Cumberland County,Maine",Town,2000,P53 STF3,$50316
+"Gouldsboro town, Hancock County,Maine",Town,2000,P53 STF3,$36542
+"Grand Isle town, Aroostook County,Maine",Town,2000,P53 STF3,$28125
+"Grand Lake Stream plantation, Washington County,Maine",Town,2000,P53 STF3,$28750
+"Gray town, Cumberland County,Maine",Town,2000,P53 STF3,$50107
+"Great Pond town, Hancock County,Maine",Town,2000,P53 STF3,$32083
+"Greenbush town, Penobscot County,Maine",Town,2000,P53 STF3,$31736
+"Greene town, Androscoggin County,Maine",Town,2000,P53 STF3,$48017
+"Greenville town, Piscataquis County,Maine",Town,2000,P53 STF3,$30365
+"Greenwood town, Oxford County,Maine",Town,2000,P53 STF3,$38750
+"Guilford town, Piscataquis County,Maine",Town,2000,P53 STF3,$27500
+"Hallowell city, Kennebec County,Maine",Town,2000,P53 STF3,$36058
+"Hamlin town, Aroostook County,Maine",Town,2000,P53 STF3,$32625
+"Hammond town, Aroostook County,Maine",Town,2000,P53 STF3,$31000
+"Hampden town, Penobscot County,Maine",Town,2000,P53 STF3,$53377
+"Hancock town, Hancock County,Maine",Town,2000,P53 STF3,$32778
+"Hanover town, Oxford County,Maine",Town,2000,P53 STF3,$35000
+"Harmony town, Somerset County,Maine",Town,2000,P53 STF3,$23843
+"Harpswell town, Cumberland County,Maine",Town,2000,P53 STF3,$40611
+"Harrington town, Washington County,Maine",Town,2000,P53 STF3,$26579
+"Harrison town, Cumberland County,Maine",Town,2000,P53 STF3,$35478
+"Hartford town, Oxford County,Maine",Town,2000,P53 STF3,$36488
+"Hartland town, Somerset County,Maine",Town,2000,P53 STF3,$29573
+"Haynesville town, Aroostook County,Maine",Town,2000,P53 STF3,$23542
+"Hebron town, Oxford County,Maine",Town,2000,P53 STF3,$45417
+"Hermon town, Penobscot County,Maine",Town,2000,P53 STF3,$47206
+"Hersey town, Aroostook County,Maine",Town,2000,P53 STF3,$22500
+"Hibberts gore, Lincoln County,Maine",Town,2000,P53 STF3,$6250
+"Highland plantation, Somerset County,Maine",Town,2000,P53 STF3,$27917
+"Hiram town, Oxford County,Maine",Town,2000,P53 STF3,$34167
+"Hodgdon town, Aroostook County,Maine",Town,2000,P53 STF3,$30188
+"Holden town, Penobscot County,Maine",Town,2000,P53 STF3,$51394
+"Hollis town, York County, Maine",Town,2000,P53 STF3,$48846
+"Hope town, Knox County,Maine",Town,2000,P53 STF3,$42273
+"Houlton town, Aroostook County,Maine",Town,2000,P53 STF3,$26212
+"Howland town, Penobscot County,Maine",Town,2000,P53 STF3,$29213
+"Hudson town, Penobscot County,Maine",Town,2000,P53 STF3,$38594
+"Industry town, Franklin County,Maine",Town,2000,P53 STF3,$32292
+"Island Falls town, Aroostook County,Maine",Town,2000,P53 STF3,$27083
+"Isle au Haut town, Knox County,Maine",Town,2000,P53 STF3,$25000
+"Islesboro town, Waldo County,Maine",Town,2000,P53 STF3,$39643
+"Jackman town, Somerset County,Maine",Town,2000,P53 STF3,$29615
+"Jackson town, Waldo County,Maine",Town,2000,P53 STF3,$26705
+"Jay town, Franklin County,Maine",Town,2000,P53 STF3,$36746
+"Jefferson town, Lincoln County,Maine",Town,2000,P53 STF3,$42311
+"Jonesboro town, Washington County,Maine",Town,2000,P53 STF3,$27639
+"Jonesport town, Washington County,Maine",Town,2000,P53 STF3,$23224
+"Kenduskeag town, Penobscot County,Maine",Town,2000,P53 STF3,$34632
+"Kennebunk town, York County, Maine",Town,2000,P53 STF3,$50914
+"Kennebunkport town, York County, Maine",Town,2000,P53 STF3,$54219
+"Kingfield town, Franklin County,Maine",Town,2000,P53 STF3,$29250
+"Kingman UT, Penobscot County,Maine",Town,2000,P53 STF3,$21875
+"Kingsbury plantation, Piscataquis County,Maine",Town,2000,P53 STF3,$0
+"Kittery town, York County, Maine",Town,2000,P53 STF3,$45822
+"Knox town, Waldo County,Maine",Town,2000,P53 STF3,$33333
+"Lagrange town, Penobscot County,Maine",Town,2000,P53 STF3,$33295
+"Lake View plantation, Piscataquis County,Maine",Town,2000,P53 STF3,$18125
+"Lakeville town, Penobscot County,Maine",Town,2000,P53 STF3,$15625
+"Lamoine town, Hancock County,Maine",Town,2000,P53 STF3,$39783
+"Lebanon town, York County, Maine",Town,2000,P53 STF3,$40021
+"Lee town, Penobscot County,Maine",Town,2000,P53 STF3,$34519
+"Leeds town, Androscoggin County,Maine",Town,2000,P53 STF3,$37993
+"Levant town, Penobscot County,Maine",Town,2000,P53 STF3,$41290
+"Lewiston city, Androscoggin County,Maine",Town,2000,P53 STF3,$29191
+"Liberty town, Waldo County,Maine",Town,2000,P53 STF3,$34583
+"Limerick town, York County, Maine",Town,2000,P53 STF3,$40845
+"Limestone town, Aroostook County,Maine",Town,2000,P53 STF3,$35313
+"Limington town, York County, Maine",Town,2000,P53 STF3,$42023
+"Lincoln plantation, Oxford County,Maine",Town,2000,P53 STF3,$26750
+"Lincoln town, Penobscot County,Maine",Town,2000,P53 STF3,$30823
+"Lincolnville town, Waldo County,Maine",Town,2000,P53 STF3,$42273
+"Linneus town, Aroostook County,Maine",Town,2000,P53 STF3,$29808
+"Lisbon town, Androscoggin County,Maine",Town,2000,P53 STF3,$38115
+"Litchfield town, Kennebec County,Maine",Town,2000,P53 STF3,$41096
+"Littleton town, Aroostook County,Maine",Town,2000,P53 STF3,$31172
+"Livermore Falls town, Androscoggin County,Maine",Town,2000,P53 STF3,$30102
+"Livermore town, Androscoggin County,Maine",Town,2000,P53 STF3,$38850
+"Long Island town, Cumberland County,Maine",Town,2000,P53 STF3,$35833
+"Lovell town, Oxford County,Maine",Town,2000,P53 STF3,$33365
+"Lowell town, Penobscot County,Maine",Town,2000,P53 STF3,$31500
+"Lubec town, Washington County,Maine",Town,2000,P53 STF3,$20565
+"Ludlow town, Aroostook County,Maine",Town,2000,P53 STF3,$23594
+"Lyman town, York County, Maine",Town,2000,P53 STF3,$47860
+"Machias town, Washington County,Maine",Town,2000,P53 STF3,$24318
+"Machiasport town, Washington County,Maine",Town,2000,P53 STF3,$29531
+"Macwahoc plantation, Aroostook County,Maine",Town,2000,P53 STF3,$23750
+"Madawaska town, Aroostook County,Maine",Town,2000,P53 STF3,$30994
+"Madison town, Somerset County,Maine",Town,2000,P53 STF3,$30528
+"Madrid town, Franklin County,Maine",Town,2000,P53 STF3,$22292
+"Magalloway plantation, Oxford County,Maine",Town,2000,P53 STF3,$33750
+"Manchester town, Kennebec County,Maine",Town,2000,P53 STF3,$52500
+"Mapleton town, Aroostook County,Maine",Town,2000,P53 STF3,$36188
+"Mariaville town, Hancock County,Maine",Town,2000,P53 STF3,$31250
+"Mars Hill town, Aroostook County,Maine",Town,2000,P53 STF3,$24083
+"Marshfield town, Washington County,Maine",Town,2000,P53 STF3,$36458
+"Masardis town, Aroostook County,Maine",Town,2000,P53 STF3,$30625
+"Matinicus Isle plantation, Knox County,Maine",Town,2000,P53 STF3,$32500
+"Mattawamkeag town, Penobscot County,Maine",Town,2000,P53 STF3,$23403
+"Maxfield town, Penobscot County,Maine",Town,2000,P53 STF3,$15000
+"Mechanic Falls town, Androscoggin County,Maine",Town,2000,P53 STF3,$34864
+"Meddybemps town, Washington County,Maine",Town,2000,P53 STF3,$35625
+"Medford town, Piscataquis County,Maine",Town,2000,P53 STF3,$28750
+"Medway town, Penobscot County,Maine",Town,2000,P53 STF3,$33646
+"Mercer town, Somerset County,Maine",Town,2000,P53 STF3,$37500
+"Merrill town, Aroostook County,Maine",Town,2000,P53 STF3,$26806
+"Mexico town, Oxford County,Maine",Town,2000,P53 STF3,$27406
+"Milbridge town, Washington County,Maine",Town,2000,P53 STF3,$22371
+"Milford town, Penobscot County,Maine",Town,2000,P53 STF3,$39500
+"Millinocket town, Penobscot County,Maine",Town,2000,P53 STF3,$29318
+"Milo town, Piscataquis County,Maine",Town,2000,P53 STF3,$24432
+"Milton UT, Oxford County,Maine",Town,2000,P53 STF3,$33750
+"Minot town, Androscoggin County,Maine",Town,2000,P53 STF3,$47557
+"Monhegan plantation, Lincoln County,Maine",Town,2000,P53 STF3,$26250
+"Monmouth town, Kennebec County,Maine",Town,2000,P53 STF3,$43906
+"Monroe town, Waldo County,Maine",Town,2000,P53 STF3,$32250
+"Monson town, Piscataquis County,Maine",Town,2000,P53 STF3,$26964
+"Monticello town, Aroostook County,Maine",Town,2000,P53 STF3,$23566
+"Montville town, Waldo County,Maine",Town,2000,P53 STF3,$32434
+"Moose River town, Somerset County,Maine",Town,2000,P53 STF3,$31042
+"Moro plantation, Aroostook County,Maine",Town,2000,P53 STF3,$41875
+"Morrill town, Waldo County,Maine",Town,2000,P53 STF3,$34583
+"Moscow town, Somerset County,Maine",Town,2000,P53 STF3,$26467
+"Mount Chase town, Penobscot County,Maine",Town,2000,P53 STF3,$26705
+"Mount Desert town, Hancock County,Maine",Town,2000,P53 STF3,$41321
+"Mount Vernon town, Kennebec County,Maine",Town,2000,P53 STF3,$39779
+"Naples town, Cumberland County,Maine",Town,2000,P53 STF3,$38141
+"Nashville plantation, Aroostook County,Maine",Town,2000,P53 STF3,$36875
+"New Canada town, Aroostook County,Maine",Town,2000,P53 STF3,$38000
+"New Gloucester town, Cumberland County,Maine",Town,2000,P53 STF3,$49599
+"New Limerick town, Aroostook County,Maine",Town,2000,P53 STF3,$29286
+"New Portland town, Somerset County,Maine",Town,2000,P53 STF3,$30521
+"New Sharon town, Franklin County,Maine",Town,2000,P53 STF3,$33083
+"New Sweden town, Aroostook County,Maine",Town,2000,P53 STF3,$29625
+"New Vineyard town, Franklin County,Maine",Town,2000,P53 STF3,$29688
+"Newburgh town, Penobscot County,Maine",Town,2000,P53 STF3,$39850
+"Newcastle town, Lincoln County,Maine",Town,2000,P53 STF3,$43000
+"Newfield town, York County, Maine",Town,2000,P53 STF3,$38654
+"Newport town, Penobscot County,Maine",Town,2000,P53 STF3,$30056
+"Newry town, Oxford County,Maine",Town,2000,P53 STF3,$42321
+"Nobleboro town, Lincoln County,Maine",Town,2000,P53 STF3,$39805
+"Norridgewock town, Somerset County,Maine",Town,2000,P53 STF3,$35679
+"North Berwick town, York County, Maine",Town,2000,P53 STF3,$46883
+"North Franklin UT, Franklin County,Maine",Town,2000,P53 STF3,$26250
+"North Haven town, Knox County,Maine",Town,2000,P53 STF3,$40446
+"North Oxford UT, Oxford County,Maine",Town,2000,P53 STF3,$45625
+"North Penobscot UT, Penobscot County,Maine",Town,2000,P53 STF3,$37917
+"North Washington UT, Washington County,Maine",Town,2000,P53 STF3,$29135
+"North Yarmouth town, Cumberland County,Maine",Town,2000,P53 STF3,$60850
+"Northeast Piscataquis UT, Piscataquis County,Maine",Town,2000,P53 STF3,$31250
+"Northeast Somerset UT, Somerset County,Maine",Town,2000,P53 STF3,$20917
+"Northfield town, Washington County,Maine",Town,2000,P53 STF3,$36250
+"Northport town, Waldo County,Maine",Town,2000,P53 STF3,$39435
+"Northwest Aroostook UT, Aroostook County,Maine",Town,2000,P53 STF3,$22250
+"Northwest Hancock UT, Hancock County,Maine",Town,2000,P53 STF3,$0
+"Northwest Piscataquis UT, Piscataquis County,Maine",Town,2000,P53 STF3,$37500
+"Northwest Somerset UT, Somerset County,Maine",Town,2000,P53 STF3,$31875
+"Norway town, Oxford County,Maine",Town,2000,P53 STF3,$28497
+"Oakfield town, Aroostook County,Maine",Town,2000,P53 STF3,$25859
+"Oakland town, Kennebec County,Maine",Town,2000,P53 STF3,$34934
+"Ogunquit town, York County, Maine",Town,2000,P53 STF3,$47727
+"Old Orchard Beach town, York County, Maine",Town,2000,P53 STF3,$36568
+"Old Town city, Penobscot County,Maine",Town,2000,P53 STF3,$29886
+"Orient town, Aroostook County,Maine",Town,2000,P53 STF3,$19750
+"Orland town, Hancock County,Maine",Town,2000,P53 STF3,$39345
+"Orono town, Penobscot County,Maine",Town,2000,P53 STF3,$30619
+"Orrington town, Penobscot County,Maine",Town,2000,P53 STF3,$44327
+"Osborn town, Hancock County,Maine",Town,2000,P53 STF3,$33750
+"Otis town, Hancock County,Maine",Town,2000,P53 STF3,$36250
+"Otisfield town, Oxford County,Maine",Town,2000,P53 STF3,$43304
+"Owls Head town, Knox County,Maine",Town,2000,P53 STF3,$40107
+"Oxbow plantation, Aroostook County,Maine",Town,2000,P53 STF3,$33333
+"Oxford town, Oxford County,Maine",Town,2000,P53 STF3,$36670
+"Palermo town, Waldo County,Maine",Town,2000,P53 STF3,$34375
+"Palmyra town, Somerset County,Maine",Town,2000,P53 STF3,$31287
+"Paris town, Oxford County,Maine",Town,2000,P53 STF3,$33625
+"Parkman town, Piscataquis County,Maine",Town,2000,P53 STF3,$28355
+"Parsonsfield town, York County, Maine",Town,2000,P53 STF3,$32214
+"Passadumkeag town, Penobscot County,Maine",Town,2000,P53 STF3,$35250
+"Passamaquoddy Indian Township Reservation, Washington County,Maine",Town,2000,P53 STF3,$23125
+"Passamaquoddy Pleasant Point Reservation, Washington County,Maine",Town,2000,P53 STF3,$15956
+"Patten town, Penobscot County,Maine",Town,2000,P53 STF3,$26900
+"Pembroke town, Washington County,Maine",Town,2000,P53 STF3,$23365
+"Penobscot Indian Island Reservation, Aroostook County,Maine",Town,2000,P53 STF3,$0
+"Penobscot Indian Island Reservation, Penobscot County,Maine",Town,2000,P53 STF3,$24653
+"Penobscot town, Hancock County,Maine",Town,2000,P53 STF3,$37232
+"Perham town, Aroostook County,Maine",Town,2000,P53 STF3,$25962
+"Perkins UT, Sagadahoc County,Maine",Town,2000,P53 STF3,$0
+"Perry town, Washington County,Maine",Town,2000,P53 STF3,$27788
+"Peru town, Oxford County,Maine",Town,2000,P53 STF3,$38083
+"Phillips town, Franklin County,Maine",Town,2000,P53 STF3,$30579
+"Phippsburg town, Sagadahoc County,Maine",Town,2000,P53 STF3,$46739
+"Pittsfield town, Somerset County,Maine",Town,2000,P53 STF3,$32868
+"Pittston town, Kennebec County,Maine",Town,2000,P53 STF3,$39609
+"Pleasant Ridge plantation, Somerset County,Maine",Town,2000,P53 STF3,$19464
+"Plymouth town, Penobscot County,Maine",Town,2000,P53 STF3,$32768
+"Poland town, Androscoggin County,Maine",Town,2000,P53 STF3,$47824
+"Portage Lake town, Aroostook County,Maine",Town,2000,P53 STF3,$32232
+"Porter town, Oxford County,Maine",Town,2000,P53 STF3,$33802
+"Portland city, Cumberland County,Maine",Town,2000,P53 STF3,$35650
+"Pownal town, Cumberland County,Maine",Town,2000,P53 STF3,$54219
+"Prentiss UT, Penobscot County,Maine",Town,2000,P53 STF3,$15938
+"Presque Isle city, Aroostook County,Maine",Town,2000,P53 STF3,$29325
+"Princeton town, Washington County,Maine",Town,2000,P53 STF3,$28603
+"Prospect town, Waldo County,Maine",Town,2000,P53 STF3,$36607
+"Randolph town, Kennebec County,Maine",Town,2000,P53 STF3,$31046
+"Rangeley plantation, Franklin County,Maine",Town,2000,P53 STF3,$34167
+"Rangeley town, Franklin County,Maine",Town,2000,P53 STF3,$33382
+"Raymond town, Cumberland County,Maine",Town,2000,P53 STF3,$52224
+"Readfield town, Kennebec County,Maine",Town,2000,P53 STF3,$48893
+"Reed plantation, Aroostook County,Maine",Town,2000,P53 STF3,$21979
+"Richmond town, Sagadahoc County,Maine",Town,2000,P53 STF3,$36654
+"Ripley town, Somerset County,Maine",Town,2000,P53 STF3,$35250
+"Robbinston town, Washington County,Maine",Town,2000,P53 STF3,$33250
+"Rockland city, Knox County,Maine",Town,2000,P53 STF3,$30209
+"Rockport town, Knox County,Maine",Town,2000,P53 STF3,$47155
+"Rome town, Kennebec County,Maine",Town,2000,P53 STF3,$42344
+"Roque Bluffs town, Washington County,Maine",Town,2000,P53 STF3,$21500
+"Roxbury town, Oxford County,Maine",Town,2000,P53 STF3,$41750
+"Rumford town, Oxford County,Maine",Town,2000,P53 STF3,$27639
+"Sabattus town, Androscoggin County,Maine",Town,2000,P53 STF3,$41897
+"Saco city, York County, Maine",Town,2000,P53 STF3,$45105
+"Sandy River plantation, Franklin County,Maine",Town,2000,P53 STF3,$31875
+"Sanford town, York County, Maine",Town,2000,P53 STF3,$34668
+"Sangerville town, Piscataquis County,Maine",Town,2000,P53 STF3,$28036
+"Scarborough town, Cumberland County,Maine",Town,2000,P53 STF3,$56491
+"Searsmont town, Waldo County,Maine",Town,2000,P53 STF3,$36708
+"Searsport town, Waldo County,Maine",Town,2000,P53 STF3,$31288
+"Sebago town, Cumberland County,Maine",Town,2000,P53 STF3,$40391
+"Sebec town, Piscataquis County,Maine",Town,2000,P53 STF3,$33125
+"Seboeis plantation, Penobscot County,Maine",Town,2000,P53 STF3,$38750
+"Seboomook Lake UT, Somerset County,Maine",Town,2000,P53 STF3,$49167
+"Sedgwick town, Hancock County,Maine",Town,2000,P53 STF3,$35000
+"Shapleigh town, York County, Maine",Town,2000,P53 STF3,$42026
+"Sherman town, Aroostook County,Maine",Town,2000,P53 STF3,$27574
+"Shirley town, Piscataquis County,Maine",Town,2000,P53 STF3,$27708
+"Sidney town, Kennebec County,Maine",Town,2000,P53 STF3,$42500
+"Skowhegan town, Somerset County,Maine",Town,2000,P53 STF3,$28390
+"Smithfield town, Somerset County,Maine",Town,2000,P53 STF3,$37045
+"Smyrna town, Aroostook County,Maine",Town,2000,P53 STF3,$25625
+"Solon town, Somerset County,Maine",Town,2000,P53 STF3,$27266
+"Somerville town, Lincoln County,Maine",Town,2000,P53 STF3,$37125
+"Sorrento town, Hancock County,Maine",Town,2000,P53 STF3,$42125
+"South Aroostook UT, Aroostook County,Maine",Town,2000,P53 STF3,$28750
+"South Berwick town, York County, Maine",Town,2000,P53 STF3,$53201
+"South Bristol town, Lincoln County,Maine",Town,2000,P53 STF3,$38636
+"South Franklin UT, Franklin County,Maine",Town,2000,P53 STF3,$24167
+"South Oxford UT, Oxford County,Maine",Town,2000,P53 STF3,$40750
+"South Portland city, Cumberland County,Maine",Town,2000,P53 STF3,$42770
+"South Thomaston town, Knox County,Maine",Town,2000,P53 STF3,$43594
+"Southeast Piscataquis UT, Piscataquis County,Maine",Town,2000,P53 STF3,$28036
+"Southport town, Lincoln County,Maine",Town,2000,P53 STF3,$38125
+"Southwest Harbor town, Hancock County,Maine",Town,2000,P53 STF3,$36555
+"Springfield town, Penobscot County,Maine",Town,2000,P53 STF3,$26875
+"Square Lake UT, Aroostook County,Maine",Town,2000,P53 STF3,$27692
+"St. Agatha town, Aroostook County,Maine",Town,2000,P53 STF3,$30833
+"St. Albans town, Somerset County,Maine",Town,2000,P53 STF3,$28306
+"St. Francis town, Aroostook County,Maine",Town,2000,P53 STF3,$25125
+"St. George town, Knox County,Maine",Town,2000,P53 STF3,$41211
+"St. John plantation, Aroostook County,Maine",Town,2000,P53 STF3,$27250
+"Stacyville town, Penobscot County,Maine",Town,2000,P53 STF3,$26667
+"Standish town, Cumberland County,Maine",Town,2000,P53 STF3,$50278
+"Starks town, Somerset County,Maine",Town,2000,P53 STF3,$30313
+"Stetson town, Penobscot County,Maine",Town,2000,P53 STF3,$30606
+"Steuben town, Washington County,Maine",Town,2000,P53 STF3,$25208
+"Stockholm town, Aroostook County,Maine",Town,2000,P53 STF3,$31563
+"Stockton Springs town, Waldo County,Maine",Town,2000,P53 STF3,$37050
+"Stoneham town, Oxford County,Maine",Town,2000,P53 STF3,$38611
+"Stonington town, Hancock County,Maine",Town,2000,P53 STF3,$28894
+"Stow town, Oxford County,Maine",Town,2000,P53 STF3,$27125
+"Strong town, Franklin County,Maine",Town,2000,P53 STF3,$30568
+"Sullivan town, Hancock County,Maine",Town,2000,P53 STF3,$31509
+"Sumner town, Oxford County,Maine",Town,2000,P53 STF3,$39196
+"Surry town, Hancock County,Maine",Town,2000,P53 STF3,$36932
+"Swans Island town, Hancock County,Maine",Town,2000,P53 STF3,$28438
+"Swanville town, Waldo County,Maine",Town,2000,P53 STF3,$31417
+"Sweden town, Oxford County,Maine",Town,2000,P53 STF3,$30781
+"Talmadge town, Washington County,Maine",Town,2000,P53 STF3,$29583
+"Temple town, Franklin County,Maine",Town,2000,P53 STF3,$33750
+"The Forks plantation, Somerset County,Maine",Town,2000,P53 STF3,$37083
+"Thomaston town, Knox County,Maine",Town,2000,P53 STF3,$33306
+"Thorndike town, Waldo County,Maine",Town,2000,P53 STF3,$26786
+"Topsfield town, Washington County,Maine",Town,2000,P53 STF3,$26250
+"Topsham town, Sagadahoc County,Maine",Town,2000,P53 STF3,$47682
+"Tremont town, Hancock County,Maine",Town,2000,P53 STF3,$36750
+"Trenton town, Hancock County,Maine",Town,2000,P53 STF3,$34808
+"Troy town, Waldo County,Maine",Town,2000,P53 STF3,$30052
+"Turner town, Androscoggin County,Maine",Town,2000,P53 STF3,$46207
+"Twombly UT, Penobscot County,Maine",Town,2000,P53 STF3,$0
+"Union town, Knox County,Maine",Town,2000,P53 STF3,$37679
+"Unity town, Waldo County,Maine",Town,2000,P53 STF3,$26927
+"Unity UT, Kennebec County,Maine",Town,2000,P53 STF3,$17917
+"Upton town, Oxford County,Maine",Town,2000,P53 STF3,$35000
+"Van Buren town, Aroostook County,Maine",Town,2000,P53 STF3,$20038
+"Vanceboro town, Washington County,Maine",Town,2000,P53 STF3,$17386
+"Vassalboro town, Kennebec County,Maine",Town,2000,P53 STF3,$37923
+"Veazie town, Penobscot County,Maine",Town,2000,P53 STF3,$44519
+"Verona town, Hancock County,Maine",Town,2000,P53 STF3,$41827
+"Vienna town, Kennebec County,Maine",Town,2000,P53 STF3,$36985
+"Vinalhaven town, Knox County,Maine",Town,2000,P53 STF3,$34087
+"Wade town, Aroostook County,Maine",Town,2000,P53 STF3,$34375
+"Waite town, Washington County,Maine",Town,2000,P53 STF3,$35417
+"Waldo town, Waldo County,Maine",Town,2000,P53 STF3,$29063
+"Waldoboro town, Lincoln County,Maine",Town,2000,P53 STF3,$34830
+"Wales town, Androscoggin County,Maine",Town,2000,P53 STF3,$44444
+"Wallagrass town, Aroostook County,Maine",Town,2000,P53 STF3,$29464
+"Waltham town, Hancock County,Maine",Town,2000,P53 STF3,$39167
+"Warren town, Knox County,Maine",Town,2000,P53 STF3,$35662
+"Washburn town, Aroostook County,Maine",Town,2000,P53 STF3,$30338
+"Washington town, Knox County,Maine",Town,2000,P53 STF3,$35492
+"Waterboro town, York County, Maine",Town,2000,P53 STF3,$43234
+"Waterford town, Oxford County,Maine",Town,2000,P53 STF3,$31458
+"Waterville city, Kennebec County,Maine",Town,2000,P53 STF3,$26816
+"Wayne town, Kennebec County,Maine",Town,2000,P53 STF3,$45625
+"Webster plantation, Penobscot County,Maine",Town,2000,P53 STF3,$19583
+"Weld town, Franklin County,Maine",Town,2000,P53 STF3,$37250
+"Wellington town, Piscataquis County,Maine",Town,2000,P53 STF3,$17083
+"Wells town, York County, Maine",Town,2000,P53 STF3,$46314
+"Wesley town, Washington County,Maine",Town,2000,P53 STF3,$21667
+"West Bath town, Sagadahoc County,Maine",Town,2000,P53 STF3,$45326
+"West Central Franklin UT, Franklin County,Maine",Town,2000,P53 STF3,$0
+"West Forks plantation, Somerset County,Maine",Town,2000,P53 STF3,$39167
+"West Gardiner town, Kennebec County,Maine",Town,2000,P53 STF3,$45434
+"West Paris town, Oxford County,Maine",Town,2000,P53 STF3,$30000
+"Westbrook city, Cumberland County,Maine",Town,2000,P53 STF3,$37873
+"Westfield town, Aroostook County,Maine",Town,2000,P53 STF3,$27083
+"Westmanland town, Aroostook County,Maine",Town,2000,P53 STF3,$30750
+"Weston town, Aroostook County,Maine",Town,2000,P53 STF3,$21429
+"Westport town, Lincoln County,Maine",Town,2000,P53 STF3,$39010
+"Whitefield town, Lincoln County,Maine",Town,2000,P53 STF3,$38477
+"Whiting town, Washington County,Maine",Town,2000,P53 STF3,$28304
+"Whitney UT, Penobscot County,Maine",Town,2000,P53 STF3,$0
+"Whitneyville town, Washington County,Maine",Town,2000,P53 STF3,$30000
+"Willimantic town, Piscataquis County,Maine",Town,2000,P53 STF3,$26250
+"Wilton town, Franklin County,Maine",Town,2000,P53 STF3,$34563
+"Windham town, Cumberland County,Maine",Town,2000,P53 STF3,$46526
+"Windsor town, Kennebec County,Maine",Town,2000,P53 STF3,$40039
+"Winn town, Penobscot County,Maine",Town,2000,P53 STF3,$28409
+"Winslow town, Kennebec County,Maine",Town,2000,P53 STF3,$39580
+"Winter Harbor town, Hancock County,Maine",Town,2000,P53 STF3,$28571
+"Winterport town, Waldo County,Maine",Town,2000,P53 STF3,$40776
+"Winterville plantation, Aroostook County,Maine",Town,2000,P53 STF3,$27917
+"Winthrop town, Kennebec County,Maine",Town,2000,P53 STF3,$41733
+"Wiscasset town, Lincoln County,Maine",Town,2000,P53 STF3,$37378
+"Woodland town, Aroostook County,Maine",Town,2000,P53 STF3,$28929
+"Woodstock town, Oxford County,Maine",Town,2000,P53 STF3,$35642
+"Woodville town, Penobscot County,Maine",Town,2000,P53 STF3,$35625
+"Woolwich town, Sagadahoc County,Maine",Town,2000,P53 STF3,$41741
+"Wyman UT, Franklin County,Maine",Town,2000,P53 STF3,$26875
+"Yarmouth town, Cumberland County,Maine",Town,2000,P53 STF3,$58030
+"York town, York County, Maine",Town,2000,P53 STF3,$56171
+Maine,State,2007,ACS B19013,$45211
+"Androscoggin County, Maine",County,2007,ACS B19013,$42725
+"Aroostook County, Maine",County,2007,ACS B19013,$34225
+"Cumberland County, Maine",County,2007,ACS B19013,$53768
+"Franklin County, Maine",County,2007,ACS B19013,$38975
+"Hancock County, Maine",County,2007,ACS B19013,$45822
+"Kennebec County, Maine",County,2007,ACS B19013,$45248
+"Knox County, Maine",County,2007,ACS B19013,$42495
+"Lincoln County, Maine",County,2007,ACS B19013,$45620
+"Oxford County, Maine",County,2007,ACS B19013,$37175
+"Penobscot County, Maine",County,2007,ACS B19013,$41336
+"Sagadahoc County, Maine",County,2007,ACS B19013,$52569
+"Somerset County, Maine",County,2007,ACS B19013,$36154
+"Waldo County, Maine",County,2007,ACS B19013,$40470
+"Washington County, Maine",County,2007,ACS B19013,$33171
+"York County, Maine",County,2007,ACS B19013,$52726
+"Auburn city, Androscoggin County, Maine",Town,2007,ACS B19013,$36507
+"Lewiston city, Androscoggin County, Maine",Town,2007,ACS B19013,$36964
+"Brunswick town, Cumberland County, Maine",Town,2007,ACS B19013,$49786
+"Portland city, Cumberland County, Maine",Town,2007,ACS B19013,$42830
+"South Portland city, Cumberland County, Maine",Town,2007,ACS B19013,$49743
+"Bangor city, Penobscot County, Maine",Town,2007,ACS B19013,$37195
+"Biddeford city, York County, Maine",Town,2007,ACS B19013,$42169
+"Sanford town, York County, Maine",Town,2007,ACS B19013,$45557
