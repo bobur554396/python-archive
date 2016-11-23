@@ -1,0 +1,855 @@
+2016-11-18 09:21:33,373 INFO     errbot.specific_plugin_manager storage search paths {'/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/storage'}
+2016-11-18 09:21:33,375 INFO     errbot.specific_plugin_manager Found those plugings available:
+2016-11-18 09:21:33,375 INFO     errbot.specific_plugin_manager 	    Memory  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/storage/memory.py)
+2016-11-18 09:21:33,375 INFO     errbot.specific_plugin_manager 	     Shelf  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/storage/shelf.py)
+2016-11-18 09:21:33,376 INFO     errbot.bootstrap          Found Storage plugin: 'Shelf'
+Description: This is the storage plugin for the traditional shelf store for errbot.
+2016-11-18 09:21:33,376 DEBUG    errbot.specific_plugin_manager Refilter the plugins...
+2016-11-18 09:21:33,376 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/storage/memory.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:21:33,377 DEBUG    errbot.specific_plugin_manager Load the one remaining...
+2016-11-18 09:21:33,378 DEBUG    errbot.specific_plugin_manager Class to load ShelfStoragePlugin
+2016-11-18 09:21:33,378 DEBUG    errbot.storage            Opening storage 'repomgr'
+2016-11-18 09:21:33,379 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/repomgr.db
+2016-11-18 09:21:33,384 DEBUG    errbot.storage            Opening storage 'core'
+2016-11-18 09:21:33,384 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/core.db
+2016-11-18 09:21:33,386 INFO     errbot.specific_plugin_manager backends search paths {'/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends'}
+2016-11-18 09:21:33,393 INFO     errbot.specific_plugin_manager Found those plugings available:
+2016-11-18 09:21:33,393 INFO     errbot.specific_plugin_manager 	   Graphic  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/graphic.py)
+2016-11-18 09:21:33,393 INFO     errbot.specific_plugin_manager 	   Hipchat  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/hipchat.py)
+2016-11-18 09:21:33,393 INFO     errbot.specific_plugin_manager 	       IRC  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/irc.py)
+2016-11-18 09:21:33,393 INFO     errbot.specific_plugin_manager 	      Null  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/null.py)
+2016-11-18 09:21:33,393 INFO     errbot.specific_plugin_manager 	     Slack  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/slack.py)
+2016-11-18 09:21:33,394 INFO     errbot.specific_plugin_manager 	  Telegram  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/telegram_messenger.py)
+2016-11-18 09:21:33,394 INFO     errbot.specific_plugin_manager 	      Test  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/test.py)
+2016-11-18 09:21:33,394 INFO     errbot.specific_plugin_manager 	      Text  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/text.py)
+2016-11-18 09:21:33,394 INFO     errbot.specific_plugin_manager 	      XMPP  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/xmpp.py)
+2016-11-18 09:21:33,394 INFO     errbot.bootstrap          Found Backend plugin: 'Text'
+						Description: This is the text backend for Err.
+2016-11-18 09:21:33,394 DEBUG    errbot.specific_plugin_manager Refilter the plugins...
+2016-11-18 09:21:33,395 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/graphic.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:21:33,395 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/hipchat.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:21:33,396 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/irc.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:21:33,396 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/null.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:21:33,396 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/slack.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:21:33,397 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/telegram_messenger.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:21:33,397 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/test.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:21:33,398 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/xmpp.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:21:33,398 DEBUG    errbot.specific_plugin_manager Load the one remaining...
+2016-11-18 09:21:33,505 DEBUG    errbot.specific_plugin_manager Class to load TextBackend
+2016-11-18 09:21:33,505 DEBUG    errbot.core               ErrBot init.
+2016-11-18 09:21:33,505 DEBUG    errbot.backends.base      Backend init.
+2016-11-18 09:21:33,507 DEBUG    errbot.core               created a thread pool of size 10.
+2016-11-18 09:21:33,508 DEBUG    errbot.backends.text      Text Backend Init.
+2016-11-18 09:21:33,516 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.smart_strong".
+2016-11-18 09:21:33,516 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.smart_strong.SmartEmphasisExtension".
+2016-11-18 09:21:33,516 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.fenced_code".
+2016-11-18 09:21:33,517 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2016-11-18 09:21:33,517 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.footnotes".
+2016-11-18 09:21:33,518 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2016-11-18 09:21:33,523 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.attr_list".
+2016-11-18 09:21:33,523 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2016-11-18 09:21:33,524 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.def_list".
+2016-11-18 09:21:33,524 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2016-11-18 09:21:33,524 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.tables".
+2016-11-18 09:21:33,524 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2016-11-18 09:21:33,525 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.abbr".
+2016-11-18 09:21:33,525 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2016-11-18 09:21:33,526 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.extra.ExtraExtension".
+2016-11-18 09:21:33,526 DEBUG    MARKDOWN                  Successfully loaded extension "errbot.rendering.ansiext.AnsiExtension".
+2016-11-18 09:21:33,541 DEBUG    errbot.core               Initializing backend storage
+2016-11-18 09:21:33,541 DEBUG    errbot.storage            Opening storage 'text_backend'
+2016-11-18 09:21:33,541 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/text_backend.db
+2016-11-18 09:21:33,543 DEBUG    errbot.plugin_manager     All plugin roots:
+2016-11-18 09:21:33,543 DEBUG    errbot.plugin_manager     -> /Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins
+2016-11-18 09:21:33,544 DEBUG    errbot.plugin_manager     Add /Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins to sys.path
+2016-11-18 09:21:33,544 DEBUG    errbot.plugin_manager     -> /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example
+2016-11-18 09:21:33,544 DEBUG    errbot.plugin_manager     Add /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example to sys.path
+2016-11-18 09:21:33,544 DEBUG    errbot.plugin_manager     /Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins has no requirements.txt file
+2016-11-18 09:21:33,544 DEBUG    errbot.plugin_manager     /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example has no requirements.txt file
+2016-11-18 09:21:33,703 INFO     errbot                    webhooks:  Flag to bind /echo to echo
+2016-11-18 09:21:33,705 DEBUG    errbot.bootstrap          Start serving commands from the text backend
+2016-11-18 09:21:33,705 INFO     errbot.core               Activate internal commands
+2016-11-18 09:21:33,705 INFO     errbot.plugin_manager     Activate bot plugins...
+2016-11-18 09:21:33,705 INFO     errbot.plugin_manager     Activate plugin: ACLs
+2016-11-18 09:21:33,705 DEBUG    errbot.plugin_manager     Plugin ACLs has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,706 INFO     errbot.plugin_manager     Activating ACLs with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,706 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,706 DEBUG    errbot.botplugin          Init storage for ACLS
+2016-11-18 09:21:33,706 DEBUG    errbot.storage            Opening storage 'ACLS'
+2016-11-18 09:21:33,706 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/ACLS.db
+2016-11-18 09:21:33,707 DEBUG    errbot.core               Adding command filter: acls
+2016-11-18 09:21:33,707 INFO     errbot.core_plugins.wsview Checking ACLS for webhooks
+2016-11-18 09:21:33,707 INFO     errbot.plugin_manager     Activate plugin: Backup
+2016-11-18 09:21:33,707 DEBUG    errbot.plugin_manager     Plugin Backup has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,707 INFO     errbot.plugin_manager     Activating Backup with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,707 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,708 DEBUG    errbot.botplugin          Init storage for Backup
+2016-11-18 09:21:33,708 DEBUG    errbot.storage            Opening storage 'Backup'
+2016-11-18 09:21:33,708 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Backup.db
+2016-11-18 09:21:33,708 DEBUG    errbot.core               Adding command : backup -> backup
+2016-11-18 09:21:33,708 INFO     errbot.core_plugins.wsview Checking Backup for webhooks
+2016-11-18 09:21:33,709 INFO     errbot.plugin_manager     Activate plugin: ChatRoom
+2016-11-18 09:21:33,709 DEBUG    errbot.plugin_manager     Plugin ChatRoom has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,709 INFO     errbot.plugin_manager     Activating ChatRoom with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,709 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,709 DEBUG    errbot.botplugin          Init storage for ChatRoom
+2016-11-18 09:21:33,709 DEBUG    errbot.storage            Opening storage 'ChatRoom'
+2016-11-18 09:21:33,709 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/ChatRoom.db
+2016-11-18 09:21:33,709 DEBUG    errbot.core               Adding command : room_create -> room_create
+2016-11-18 09:21:33,709 DEBUG    errbot.core               Adding command : room_destroy -> room_destroy
+2016-11-18 09:21:33,710 DEBUG    errbot.core               Adding command : room_invite -> room_invite
+2016-11-18 09:21:33,710 DEBUG    errbot.core               Adding command : room_join -> room_join
+2016-11-18 09:21:33,710 DEBUG    errbot.core               Adding command : room_leave -> room_leave
+2016-11-18 09:21:33,710 DEBUG    errbot.core               Adding command : room_list -> room_list
+2016-11-18 09:21:33,710 DEBUG    errbot.core               Adding command : room_occupants -> room_occupants
+2016-11-18 09:21:33,710 DEBUG    errbot.core               Adding command : room_topic -> room_topic
+2016-11-18 09:21:33,710 INFO     errbot.core_plugins.wsview Checking ChatRoom for webhooks
+2016-11-18 09:21:33,710 INFO     errbot.plugin_manager     Activate plugin: Flows
+2016-11-18 09:21:33,710 DEBUG    errbot.plugin_manager     Plugin Flows has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,710 INFO     errbot.plugin_manager     Activating Flows with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,711 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,711 DEBUG    errbot.botplugin          Init storage for Flows
+2016-11-18 09:21:33,711 DEBUG    errbot.storage            Opening storage 'Flows'
+2016-11-18 09:21:33,711 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Flows.db
+2016-11-18 09:21:33,711 DEBUG    errbot.core               Adding command : flows_kill -> flows_kill
+2016-11-18 09:21:33,711 DEBUG    errbot.core               Adding command : flows_list -> flows_list
+2016-11-18 09:21:33,711 DEBUG    errbot.core               Adding command : flows_show -> flows_show
+2016-11-18 09:21:33,711 DEBUG    errbot.core               Adding command : flows_start -> flows_start
+2016-11-18 09:21:33,711 DEBUG    errbot.core               Adding command : flows_status -> flows_status
+2016-11-18 09:21:33,711 DEBUG    errbot.core               Adding command : flows_stop -> flows_stop
+2016-11-18 09:21:33,712 INFO     errbot.core_plugins.wsview Checking Flows for webhooks
+2016-11-18 09:21:33,712 INFO     errbot.plugin_manager     Activate plugin: Health
+2016-11-18 09:21:33,712 DEBUG    errbot.plugin_manager     Plugin Health has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,712 INFO     errbot.plugin_manager     Activating Health with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,712 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,712 DEBUG    errbot.botplugin          Init storage for Health
+2016-11-18 09:21:33,712 DEBUG    errbot.storage            Opening storage 'Health'
+2016-11-18 09:21:33,712 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Health.db
+2016-11-18 09:21:33,713 DEBUG    errbot.core               Adding command : restart -> restart
+2016-11-18 09:21:33,713 DEBUG    errbot.core               Adding command : shutdown -> shutdown
+2016-11-18 09:21:33,713 DEBUG    errbot.core               Adding command : status -> status
+2016-11-18 09:21:33,713 DEBUG    errbot.core               Adding command : status_gc -> status_gc
+2016-11-18 09:21:33,713 DEBUG    errbot.core               Adding command : status_load -> status_load
+2016-11-18 09:21:33,713 DEBUG    errbot.core               Adding command : status_plugins -> status_plugins
+2016-11-18 09:21:33,713 DEBUG    errbot.core               Adding command : uptime -> uptime
+2016-11-18 09:21:33,713 INFO     errbot.core_plugins.wsview Checking Health for webhooks
+2016-11-18 09:21:33,713 INFO     errbot.plugin_manager     Activate plugin: Help
+2016-11-18 09:21:33,713 DEBUG    errbot.plugin_manager     Plugin Help has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,714 INFO     errbot.plugin_manager     Activating Help with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,714 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,714 DEBUG    errbot.botplugin          Init storage for Help
+2016-11-18 09:21:33,714 DEBUG    errbot.storage            Opening storage 'Help'
+2016-11-18 09:21:33,714 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Help.db
+2016-11-18 09:21:33,714 DEBUG    errbot.core               Adding command : about -> about
+2016-11-18 09:21:33,714 DEBUG    errbot.core               Adding command : apropos -> apropos
+2016-11-18 09:21:33,714 DEBUG    errbot.core               Adding command : help -> help
+2016-11-18 09:21:33,715 INFO     errbot.core_plugins.wsview Checking Help for webhooks
+2016-11-18 09:21:33,715 INFO     errbot.plugin_manager     Activate plugin: Plugins
+2016-11-18 09:21:33,715 DEBUG    errbot.plugin_manager     Plugin Plugins has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,715 INFO     errbot.plugin_manager     Activating Plugins with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,715 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,716 DEBUG    errbot.botplugin          Init storage for Plugins
+2016-11-18 09:21:33,716 DEBUG    errbot.storage            Opening storage 'Plugins'
+2016-11-18 09:21:33,716 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Plugins.db
+2016-11-18 09:21:33,716 DEBUG    errbot.core               Adding command : plugin_activate -> plugin_activate
+2016-11-18 09:21:33,716 DEBUG    errbot.core               Adding command : plugin_blacklist -> plugin_blacklist
+2016-11-18 09:21:33,717 DEBUG    errbot.core               Adding command : plugin_config -> plugin_config
+2016-11-18 09:21:33,717 DEBUG    errbot.core               Adding command : plugin_deactivate -> plugin_deactivate
+2016-11-18 09:21:33,717 DEBUG    errbot.core               Adding command : plugin_reload -> plugin_reload
+2016-11-18 09:21:33,717 DEBUG    errbot.core               Adding command : plugin_unblacklist -> plugin_unblacklist
+2016-11-18 09:21:33,717 DEBUG    errbot.core               Adding command : repos -> repos
+2016-11-18 09:21:33,717 DEBUG    errbot.core               Adding command : repos_install -> repos_install
+2016-11-18 09:21:33,717 DEBUG    errbot.core               Adding command : repos_search -> repos_search
+2016-11-18 09:21:33,717 DEBUG    errbot.core               Adding command : repos_uninstall -> repos_uninstall
+2016-11-18 09:21:33,717 DEBUG    errbot.core               Adding command : repos_update -> repos_update
+2016-11-18 09:21:33,717 INFO     errbot.core_plugins.wsview Checking Plugins for webhooks
+2016-11-18 09:21:33,717 INFO     errbot.plugin_manager     Activate plugin: Utils
+2016-11-18 09:21:33,718 DEBUG    errbot.plugin_manager     Plugin Utils has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,718 INFO     errbot.plugin_manager     Activating Utils with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,718 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,718 DEBUG    errbot.botplugin          Init storage for Utils
+2016-11-18 09:21:33,718 DEBUG    errbot.storage            Opening storage 'Utils'
+2016-11-18 09:21:33,718 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Utils.db
+2016-11-18 09:21:33,718 DEBUG    errbot.core               Adding command : echo -> echo
+2016-11-18 09:21:33,719 DEBUG    errbot.core               Adding command : history -> history
+2016-11-18 09:21:33,719 DEBUG    errbot.core               Adding command : log_tail -> log_tail
+2016-11-18 09:21:33,719 DEBUG    errbot.core               Adding command : render_test -> render_test
+2016-11-18 09:21:33,719 DEBUG    errbot.core               Adding command : whoami -> whoami
+2016-11-18 09:21:33,719 INFO     errbot.core_plugins.wsview Checking Utils for webhooks
+2016-11-18 09:21:33,719 INFO     errbot.plugin_manager     Activate plugin: VersionChecker
+2016-11-18 09:21:33,719 DEBUG    errbot.plugin_manager     Plugin VersionChecker has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,719 INFO     errbot.plugin_manager     Activating VersionChecker with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,720 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,720 INFO     errbot.plugins.VersionChecker Skip version checking under text mode
+2016-11-18 09:21:33,720 INFO     errbot.core_plugins.wsview Checking VersionChecker for webhooks
+2016-11-18 09:21:33,720 INFO     errbot.plugin_manager     Activate plugin: Webserver
+2016-11-18 09:21:33,720 DEBUG    errbot.plugin_manager     Plugin Webserver has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,720 INFO     errbot.plugin_manager     Activating Webserver with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,721 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:21:33,721 INFO     errbot.plugins.Webserver  Webserver is not configured. Forbid activation
+2016-11-18 09:21:33,721 INFO     errbot.core_plugins.wsview Checking Webserver for webhooks
+2016-11-18 09:21:33,721 INFO     errbot.core_plugins.wsview Webhook routing echo
+2016-11-18 09:21:33,721 INFO     errbot.plugin_manager     Activate plugin: Example
+2016-11-18 09:21:33,721 DEBUG    errbot.plugin_manager     Plugin Example has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:21:33,721 INFO     errbot.plugin_manager     Activating Example with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:21:33,722 DEBUG    errbot.templating         No templates directory found for this plugin [Looking for /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example/templates]
+2016-11-18 09:21:33,722 DEBUG    errbot.botplugin          Init storage for Example
+2016-11-18 09:21:33,722 DEBUG    errbot.storage            Opening storage 'Example'
+2016-11-18 09:21:33,722 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Example.db
+2016-11-18 09:21:33,722 DEBUG    errbot.core               Adding command : tryme -> tryme
+2016-11-18 09:21:33,722 INFO     errbot.core_plugins.wsview Checking Example for webhooks
+2016-11-18 09:21:33,723 DEBUG    errbot.plugin_manager     Activate flow plugins ...
+2016-11-18 09:21:33,723 INFO     errbot.core               
+2016-11-18 09:21:33,723 INFO     errbot.core               Notifying connection to all the plugins...
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Trigger callback_connect on ACLS
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Trigger callback_connect on Backup
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Trigger callback_connect on ChatRoom
+2016-11-18 09:21:33,723 INFO     errbot.plugins.ChatRoom   Callback_connect
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Trigger callback_connect on Flows
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Trigger callback_connect on Health
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Trigger callback_connect on Help
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Trigger callback_connect on Plugins
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Trigger callback_connect on Utils
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Trigger callback_connect on Example
+2016-11-18 09:21:33,723 INFO     errbot.core               Plugin activation done.
+2016-11-18 09:21:33,723 DEBUG    errbot.core               Triggering callback_presence on ACLS
+2016-11-18 09:21:33,724 DEBUG    errbot.core               Triggering callback_presence on Backup
+2016-11-18 09:21:33,724 DEBUG    errbot.core               Triggering callback_presence on ChatRoom
+2016-11-18 09:21:33,724 DEBUG    errbot.core               Triggering callback_presence on Flows
+2016-11-18 09:21:33,724 DEBUG    errbot.core               Triggering callback_presence on Health
+2016-11-18 09:21:33,724 DEBUG    errbot.core               Triggering callback_presence on Help
+2016-11-18 09:21:33,724 DEBUG    errbot.core               Triggering callback_presence on Plugins
+2016-11-18 09:21:33,724 DEBUG    errbot.core               Triggering callback_presence on Utils
+2016-11-18 09:21:33,724 DEBUG    errbot.core               Triggering callback_presence on Example
+2016-11-18 09:22:35,366 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:22:35,366 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:22:35,366 DEBUG    errbot.core               *** text = !tryme
+2016-11-18 09:22:35,366 DEBUG    errbot.plugins.ACLS       Check tryme for ACLs.
+2016-11-18 09:22:35,366 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Example:tryme
+2016-11-18 09:22:35,366 INFO     errbot.plugins.ACLS       Check if tryme is admin only command.
+2016-11-18 09:22:35,367 INFO     errbot.core               Processing command 'tryme' with parameters '' from CHANGE ME
+2016-11-18 09:22:35,367 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:22:35,367 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:22:35,367 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:22:35,367 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:22:35,367 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:22:35,367 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:22:35,367 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:22:35,368 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:22:35,368 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:22:35,368 DEBUG    errbot.flow               Test if the command tryme is a trigger for an inflight flow ...
+2016-11-18 09:22:35,368 DEBUG    errbot.flow               None matched.
+2016-11-18 09:22:35,369 DEBUG    errbot.flow               Test if the command tryme is a trigger for an inflight flow ...
+2016-11-18 09:22:35,369 DEBUG    errbot.flow               None matched.
+2016-11-18 09:22:35,369 DEBUG    errbot.flow               Test if the command tryme is an auto-trigger for any flow ...
+2016-11-18 09:22:38,654 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:22:38,654 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:22:38,654 DEBUG    errbot.core               *** text = !help
+2016-11-18 09:22:38,654 DEBUG    errbot.plugins.ACLS       Check help for ACLs.
+2016-11-18 09:22:38,654 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Help:help
+2016-11-18 09:22:38,654 INFO     errbot.plugins.ACLS       Check if help is admin only command.
+2016-11-18 09:22:38,654 INFO     errbot.core               Processing command 'help' with parameters '' from CHANGE ME
+2016-11-18 09:22:38,655 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:22:38,655 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:22:38,655 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:22:38,655 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:22:38,655 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:22:38,655 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:22:38,655 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:22:38,655 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:22:38,655 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:22:38,656 DEBUG    errbot.flow               Test if the command help is a trigger for an inflight flow ...
+2016-11-18 09:22:38,656 DEBUG    errbot.flow               None matched.
+2016-11-18 09:22:38,669 DEBUG    errbot.flow               Test if the command help is a trigger for an inflight flow ...
+2016-11-18 09:22:38,669 DEBUG    errbot.flow               None matched.
+2016-11-18 09:22:38,669 DEBUG    errbot.flow               Test if the command help is an auto-trigger for any flow ...
+2016-11-18 09:22:41,598 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:22:41,598 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:22:41,598 DEBUG    errbot.core               *** text = !about
+2016-11-18 09:22:41,598 DEBUG    errbot.plugins.ACLS       Check about for ACLs.
+2016-11-18 09:22:41,598 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Help:about
+2016-11-18 09:22:41,598 INFO     errbot.plugins.ACLS       Check if about is admin only command.
+2016-11-18 09:22:41,598 INFO     errbot.core               Processing command 'about' with parameters '' from CHANGE ME
+2016-11-18 09:22:41,599 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:22:41,599 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:22:41,599 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:22:41,599 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:22:41,599 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:22:41,599 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:22:41,599 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:22:41,599 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:22:41,599 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:22:41,600 DEBUG    errbot.flow               Test if the command about is a trigger for an inflight flow ...
+2016-11-18 09:22:41,600 DEBUG    errbot.flow               None matched.
+2016-11-18 09:22:41,605 DEBUG    errbot.flow               Test if the command about is a trigger for an inflight flow ...
+2016-11-18 09:22:41,605 DEBUG    errbot.flow               None matched.
+2016-11-18 09:22:41,605 DEBUG    errbot.flow               Test if the command about is an auto-trigger for any flow ...
+2016-11-18 09:33:17,911 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:33:17,911 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:33:17,911 DEBUG    errbot.core               *** text = !repos
+2016-11-18 09:33:17,911 DEBUG    errbot.plugins.ACLS       Check repos for ACLs.
+2016-11-18 09:33:17,911 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Plugins:repos
+2016-11-18 09:33:17,911 INFO     errbot.plugins.ACLS       Check if repos is admin only command.
+2016-11-18 09:33:17,911 INFO     errbot.core               Processing command 'repos' with parameters '' from CHANGE ME
+2016-11-18 09:33:17,912 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:33:17,912 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:33:17,912 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:33:17,912 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:33:17,912 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:33:17,912 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:33:17,912 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:33:17,912 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:33:17,912 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:33:17,913 DEBUG    errbot.flow               Test if the command repos is a trigger for an inflight flow ...
+2016-11-18 09:33:17,913 DEBUG    errbot.flow               None matched.
+2016-11-18 09:33:17,922 DEBUG    errbot.flow               Test if the command repos is a trigger for an inflight flow ...
+2016-11-18 09:33:17,922 DEBUG    errbot.flow               None matched.
+2016-11-18 09:33:17,922 DEBUG    errbot.flow               Test if the command repos is an auto-trigger for any flow ...
+2016-11-18 09:33:30,443 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:33:30,443 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:33:30,443 DEBUG    errbot.core               *** text = !repos search hello
+2016-11-18 09:33:30,444 DEBUG    errbot.plugins.ACLS       Check repos_search for ACLs.
+2016-11-18 09:33:30,444 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Plugins:repos_search
+2016-11-18 09:33:30,444 INFO     errbot.plugins.ACLS       Check if repos_search is admin only command.
+2016-11-18 09:33:30,444 INFO     errbot.core               Processing command 'repos_search' with parameters 'hello' from CHANGE ME
+2016-11-18 09:33:30,444 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:33:30,444 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:33:30,444 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:33:30,445 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:33:30,445 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:33:30,445 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:33:30,445 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:33:30,445 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:33:30,445 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:33:30,445 DEBUG    errbot.flow               Test if the command repos_search is a trigger for an inflight flow ...
+2016-11-18 09:33:30,445 DEBUG    errbot.flow               None matched.
+2016-11-18 09:33:30,450 INFO     errbot.repo_manager       No repo index, creating it.
+2016-11-18 09:33:30,450 INFO     errbot.repo_manager       Index is too old, update it.
+2016-11-18 09:33:30,827 DEBUG    errbot.repo_manager       Update from remote source https://repos.errbot.io/repos.json...
+2016-11-18 09:33:30,912 DEBUG    errbot.repo_manager       Stored 229 repo entries.
+2016-11-18 09:33:30,928 DEBUG    errbot.flow               Test if the command repos_search is a trigger for an inflight flow ...
+2016-11-18 09:33:30,928 DEBUG    errbot.flow               None matched.
+2016-11-18 09:33:30,928 DEBUG    errbot.flow               Test if the command repos_search is an auto-trigger for any flow ...
+2016-11-18 09:37:09,414 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:37:09,414 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:37:09,414 DEBUG    errbot.core               *** text = !repo install errbotio/err-helloworld
+2016-11-18 09:37:09,414 DEBUG    errbot.core               Command not found
+2016-11-18 09:37:09,417 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:37:09,417 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:37:09,417 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:37:09,417 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:37:09,417 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:37:09,417 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:37:09,418 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:37:09,418 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:37:09,418 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:37:25,534 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:37:25,534 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:37:25,534 DEBUG    errbot.core               *** text = !repo install err-helloworld
+2016-11-18 09:37:25,534 DEBUG    errbot.core               Command not found
+2016-11-18 09:37:25,537 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:37:25,537 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:37:25,537 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:37:25,537 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:37:25,537 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:37:25,537 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:37:25,537 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:37:25,538 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:37:25,538 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:37:32,334 DEBUG    errbot.core               Triggering callback_presence on ACLS
+2016-11-18 09:37:32,334 DEBUG    errbot.core               Triggering callback_presence on Backup
+2016-11-18 09:37:32,334 DEBUG    errbot.core               Triggering callback_presence on ChatRoom
+2016-11-18 09:37:32,334 DEBUG    errbot.core               Triggering callback_presence on Flows
+2016-11-18 09:37:32,334 DEBUG    errbot.core               Triggering callback_presence on Health
+2016-11-18 09:37:32,335 DEBUG    errbot.core               Triggering callback_presence on Help
+2016-11-18 09:37:32,335 DEBUG    errbot.core               Triggering callback_presence on Plugins
+2016-11-18 09:37:32,335 DEBUG    errbot.core               Triggering callback_presence on Utils
+2016-11-18 09:37:32,335 DEBUG    errbot.core               Triggering callback_presence on Example
+2016-11-18 09:37:32,335 DEBUG    errbot.backends.text      Trigger disconnect callback
+2016-11-18 09:37:32,335 INFO     errbot.core               Disconnect callback, deactivating all the plugins.
+2016-11-18 09:37:32,335 DEBUG    errbot.storage            Closed storage 'ACLS'
+2016-11-18 09:37:32,336 DEBUG    errbot.core               Removing command filter: acls
+2016-11-18 09:37:32,337 DEBUG    errbot.storage            Closed storage 'Flows'
+2016-11-18 09:37:32,338 DEBUG    errbot.storage            Closed storage 'ChatRoom'
+2016-11-18 09:37:32,338 DEBUG    errbot.storage            Closed storage 'Example'
+2016-11-18 09:37:32,339 DEBUG    errbot.storage            Closed storage 'Utils'
+2016-11-18 09:37:32,340 DEBUG    errbot.storage            Closed storage 'Health'
+2016-11-18 09:37:32,341 DEBUG    errbot.storage            Closed storage 'Help'
+2016-11-18 09:37:32,342 DEBUG    errbot.storage            Closed storage 'Backup'
+2016-11-18 09:37:32,342 DEBUG    errbot.storage            Closed storage 'Plugins'
+2016-11-18 09:37:32,343 DEBUG    errbot.backends.text      Trigger shutdown
+2016-11-18 09:37:32,343 DEBUG    errbot.storage            Closed storage 'text_backend'
+2016-11-18 09:37:32,343 INFO     errbot.plugin_manager     Shutdown.
+2016-11-18 09:37:32,343 DEBUG    errbot.storage            Closed storage 'core'
+2016-11-18 09:37:32,343 INFO     errbot.plugin_manager     Bye.
+2016-11-18 09:37:32,344 DEBUG    errbot.storage            Closed storage 'repomgr'
+2016-11-18 09:37:32,344 INFO     errbot.cli                Process exiting
+2016-11-18 09:37:35,157 INFO     errbot.specific_plugin_manager storage search paths {'/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/storage'}
+2016-11-18 09:37:35,159 INFO     errbot.specific_plugin_manager Found those plugings available:
+2016-11-18 09:37:35,159 INFO     errbot.specific_plugin_manager 	    Memory  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/storage/memory.py)
+2016-11-18 09:37:35,159 INFO     errbot.specific_plugin_manager 	     Shelf  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/storage/shelf.py)
+2016-11-18 09:37:35,159 INFO     errbot.bootstrap          Found Storage plugin: 'Shelf'
+Description: This is the storage plugin for the traditional shelf store for errbot.
+2016-11-18 09:37:35,159 DEBUG    errbot.specific_plugin_manager Refilter the plugins...
+2016-11-18 09:37:35,160 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/storage/memory.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:37:35,161 DEBUG    errbot.specific_plugin_manager Load the one remaining...
+2016-11-18 09:37:35,161 DEBUG    errbot.specific_plugin_manager Class to load ShelfStoragePlugin
+2016-11-18 09:37:35,162 DEBUG    errbot.storage            Opening storage 'repomgr'
+2016-11-18 09:37:35,162 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/repomgr.db
+2016-11-18 09:37:35,163 DEBUG    errbot.storage            Opening storage 'core'
+2016-11-18 09:37:35,164 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/core.db
+2016-11-18 09:37:35,165 INFO     errbot.specific_plugin_manager backends search paths {'/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends'}
+2016-11-18 09:37:35,171 INFO     errbot.specific_plugin_manager Found those plugings available:
+2016-11-18 09:37:35,171 INFO     errbot.specific_plugin_manager 	   Graphic  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/graphic.py)
+2016-11-18 09:37:35,171 INFO     errbot.specific_plugin_manager 	   Hipchat  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/hipchat.py)
+2016-11-18 09:37:35,172 INFO     errbot.specific_plugin_manager 	       IRC  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/irc.py)
+2016-11-18 09:37:35,172 INFO     errbot.specific_plugin_manager 	      Null  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/null.py)
+2016-11-18 09:37:35,172 INFO     errbot.specific_plugin_manager 	     Slack  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/slack.py)
+2016-11-18 09:37:35,172 INFO     errbot.specific_plugin_manager 	  Telegram  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/telegram_messenger.py)
+2016-11-18 09:37:35,172 INFO     errbot.specific_plugin_manager 	      Test  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/test.py)
+2016-11-18 09:37:35,172 INFO     errbot.specific_plugin_manager 	      Text  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/text.py)
+2016-11-18 09:37:35,172 INFO     errbot.specific_plugin_manager 	      XMPP  (/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/xmpp.py)
+2016-11-18 09:37:35,173 INFO     errbot.bootstrap          Found Backend plugin: 'Text'
+						Description: This is the text backend for Err.
+2016-11-18 09:37:35,173 DEBUG    errbot.specific_plugin_manager Refilter the plugins...
+2016-11-18 09:37:35,174 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/graphic.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:37:35,175 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/hipchat.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:37:35,175 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/irc.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:37:35,175 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/null.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:37:35,176 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/slack.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:37:35,176 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/telegram_messenger.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:37:35,177 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/test.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:37:35,178 WARNING  yapsy                     Plugin candidate '/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/backends/xmpp.plug'  rejected by strategy 'SpecificBackendLocator'
+2016-11-18 09:37:35,178 DEBUG    errbot.specific_plugin_manager Load the one remaining...
+2016-11-18 09:37:35,286 DEBUG    errbot.specific_plugin_manager Class to load TextBackend
+2016-11-18 09:37:35,286 DEBUG    errbot.core               ErrBot init.
+2016-11-18 09:37:35,286 DEBUG    errbot.backends.base      Backend init.
+2016-11-18 09:37:35,288 DEBUG    errbot.core               created a thread pool of size 10.
+2016-11-18 09:37:35,290 DEBUG    errbot.backends.text      Text Backend Init.
+2016-11-18 09:37:35,296 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.smart_strong".
+2016-11-18 09:37:35,297 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.smart_strong.SmartEmphasisExtension".
+2016-11-18 09:37:35,297 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.fenced_code".
+2016-11-18 09:37:35,297 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2016-11-18 09:37:35,298 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.footnotes".
+2016-11-18 09:37:35,298 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2016-11-18 09:37:35,303 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.attr_list".
+2016-11-18 09:37:35,304 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2016-11-18 09:37:35,304 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.def_list".
+2016-11-18 09:37:35,304 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2016-11-18 09:37:35,305 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.tables".
+2016-11-18 09:37:35,305 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2016-11-18 09:37:35,305 DEBUG    MARKDOWN                  Successfuly imported extension module "markdown.extensions.abbr".
+2016-11-18 09:37:35,306 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2016-11-18 09:37:35,306 DEBUG    MARKDOWN                  Successfully loaded extension "markdown.extensions.extra.ExtraExtension".
+2016-11-18 09:37:35,306 DEBUG    MARKDOWN                  Successfully loaded extension "errbot.rendering.ansiext.AnsiExtension".
+2016-11-18 09:37:35,319 DEBUG    errbot.core               Initializing backend storage
+2016-11-18 09:37:35,320 DEBUG    errbot.storage            Opening storage 'text_backend'
+2016-11-18 09:37:35,320 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/text_backend.db
+2016-11-18 09:37:35,321 DEBUG    errbot.plugin_manager     All plugin roots:
+2016-11-18 09:37:35,322 DEBUG    errbot.plugin_manager     -> /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example
+2016-11-18 09:37:35,322 DEBUG    errbot.plugin_manager     Add /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example to sys.path
+2016-11-18 09:37:35,322 DEBUG    errbot.plugin_manager     -> /Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins
+2016-11-18 09:37:35,322 DEBUG    errbot.plugin_manager     Add /Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins to sys.path
+2016-11-18 09:37:35,322 DEBUG    errbot.plugin_manager     /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example has no requirements.txt file
+2016-11-18 09:37:35,322 DEBUG    errbot.plugin_manager     /Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins has no requirements.txt file
+2016-11-18 09:37:35,469 INFO     errbot                    webhooks:  Flag to bind /echo to echo
+2016-11-18 09:37:35,471 DEBUG    errbot.bootstrap          Start serving commands from the text backend
+2016-11-18 09:37:35,471 INFO     errbot.core               Activate internal commands
+2016-11-18 09:37:35,471 INFO     errbot.plugin_manager     Activate bot plugins...
+2016-11-18 09:37:35,471 INFO     errbot.plugin_manager     Activate plugin: Example
+2016-11-18 09:37:35,471 DEBUG    errbot.plugin_manager     Plugin Example has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,472 INFO     errbot.plugin_manager     Activating Example with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,472 DEBUG    errbot.templating         No templates directory found for this plugin [Looking for /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example/templates]
+2016-11-18 09:37:35,472 DEBUG    errbot.botplugin          Init storage for Example
+2016-11-18 09:37:35,472 DEBUG    errbot.storage            Opening storage 'Example'
+2016-11-18 09:37:35,472 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Example.db
+2016-11-18 09:37:35,473 DEBUG    errbot.core               Adding command : tryme -> tryme
+2016-11-18 09:37:35,473 INFO     errbot.core_plugins.wsview Checking Example for webhooks
+2016-11-18 09:37:35,473 INFO     errbot.plugin_manager     Activate plugin: ACLs
+2016-11-18 09:37:35,473 DEBUG    errbot.plugin_manager     Plugin ACLs has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,473 INFO     errbot.plugin_manager     Activating ACLs with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,473 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,473 DEBUG    errbot.botplugin          Init storage for ACLS
+2016-11-18 09:37:35,474 DEBUG    errbot.storage            Opening storage 'ACLS'
+2016-11-18 09:37:35,474 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/ACLS.db
+2016-11-18 09:37:35,474 DEBUG    errbot.core               Adding command filter: acls
+2016-11-18 09:37:35,474 INFO     errbot.core_plugins.wsview Checking ACLS for webhooks
+2016-11-18 09:37:35,474 INFO     errbot.plugin_manager     Activate plugin: Backup
+2016-11-18 09:37:35,474 DEBUG    errbot.plugin_manager     Plugin Backup has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,475 INFO     errbot.plugin_manager     Activating Backup with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,475 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,475 DEBUG    errbot.botplugin          Init storage for Backup
+2016-11-18 09:37:35,475 DEBUG    errbot.storage            Opening storage 'Backup'
+2016-11-18 09:37:35,475 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Backup.db
+2016-11-18 09:37:35,475 DEBUG    errbot.core               Adding command : backup -> backup
+2016-11-18 09:37:35,475 INFO     errbot.core_plugins.wsview Checking Backup for webhooks
+2016-11-18 09:37:35,476 INFO     errbot.plugin_manager     Activate plugin: ChatRoom
+2016-11-18 09:37:35,476 DEBUG    errbot.plugin_manager     Plugin ChatRoom has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,476 INFO     errbot.plugin_manager     Activating ChatRoom with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,476 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,476 DEBUG    errbot.botplugin          Init storage for ChatRoom
+2016-11-18 09:37:35,476 DEBUG    errbot.storage            Opening storage 'ChatRoom'
+2016-11-18 09:37:35,476 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/ChatRoom.db
+2016-11-18 09:37:35,476 DEBUG    errbot.core               Adding command : room_create -> room_create
+2016-11-18 09:37:35,476 DEBUG    errbot.core               Adding command : room_destroy -> room_destroy
+2016-11-18 09:37:35,477 DEBUG    errbot.core               Adding command : room_invite -> room_invite
+2016-11-18 09:37:35,477 DEBUG    errbot.core               Adding command : room_join -> room_join
+2016-11-18 09:37:35,477 DEBUG    errbot.core               Adding command : room_leave -> room_leave
+2016-11-18 09:37:35,477 DEBUG    errbot.core               Adding command : room_list -> room_list
+2016-11-18 09:37:35,477 DEBUG    errbot.core               Adding command : room_occupants -> room_occupants
+2016-11-18 09:37:35,477 DEBUG    errbot.core               Adding command : room_topic -> room_topic
+2016-11-18 09:37:35,477 INFO     errbot.core_plugins.wsview Checking ChatRoom for webhooks
+2016-11-18 09:37:35,477 INFO     errbot.plugin_manager     Activate plugin: Flows
+2016-11-18 09:37:35,477 DEBUG    errbot.plugin_manager     Plugin Flows has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,477 INFO     errbot.plugin_manager     Activating Flows with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,477 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,478 DEBUG    errbot.botplugin          Init storage for Flows
+2016-11-18 09:37:35,478 DEBUG    errbot.storage            Opening storage 'Flows'
+2016-11-18 09:37:35,478 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Flows.db
+2016-11-18 09:37:35,478 DEBUG    errbot.core               Adding command : flows_kill -> flows_kill
+2016-11-18 09:37:35,478 DEBUG    errbot.core               Adding command : flows_list -> flows_list
+2016-11-18 09:37:35,478 DEBUG    errbot.core               Adding command : flows_show -> flows_show
+2016-11-18 09:37:35,478 DEBUG    errbot.core               Adding command : flows_start -> flows_start
+2016-11-18 09:37:35,478 DEBUG    errbot.core               Adding command : flows_status -> flows_status
+2016-11-18 09:37:35,478 DEBUG    errbot.core               Adding command : flows_stop -> flows_stop
+2016-11-18 09:37:35,478 INFO     errbot.core_plugins.wsview Checking Flows for webhooks
+2016-11-18 09:37:35,479 INFO     errbot.plugin_manager     Activate plugin: Health
+2016-11-18 09:37:35,479 DEBUG    errbot.plugin_manager     Plugin Health has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,479 INFO     errbot.plugin_manager     Activating Health with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,479 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,479 DEBUG    errbot.botplugin          Init storage for Health
+2016-11-18 09:37:35,479 DEBUG    errbot.storage            Opening storage 'Health'
+2016-11-18 09:37:35,479 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Health.db
+2016-11-18 09:37:35,480 DEBUG    errbot.core               Adding command : restart -> restart
+2016-11-18 09:37:35,480 DEBUG    errbot.core               Adding command : shutdown -> shutdown
+2016-11-18 09:37:35,480 DEBUG    errbot.core               Adding command : status -> status
+2016-11-18 09:37:35,480 DEBUG    errbot.core               Adding command : status_gc -> status_gc
+2016-11-18 09:37:35,480 DEBUG    errbot.core               Adding command : status_load -> status_load
+2016-11-18 09:37:35,480 DEBUG    errbot.core               Adding command : status_plugins -> status_plugins
+2016-11-18 09:37:35,480 DEBUG    errbot.core               Adding command : uptime -> uptime
+2016-11-18 09:37:35,480 INFO     errbot.core_plugins.wsview Checking Health for webhooks
+2016-11-18 09:37:35,480 INFO     errbot.plugin_manager     Activate plugin: Help
+2016-11-18 09:37:35,480 DEBUG    errbot.plugin_manager     Plugin Help has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,480 INFO     errbot.plugin_manager     Activating Help with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,481 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,481 DEBUG    errbot.botplugin          Init storage for Help
+2016-11-18 09:37:35,481 DEBUG    errbot.storage            Opening storage 'Help'
+2016-11-18 09:37:35,481 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Help.db
+2016-11-18 09:37:35,481 DEBUG    errbot.core               Adding command : about -> about
+2016-11-18 09:37:35,481 DEBUG    errbot.core               Adding command : apropos -> apropos
+2016-11-18 09:37:35,481 DEBUG    errbot.core               Adding command : help -> help
+2016-11-18 09:37:35,481 INFO     errbot.core_plugins.wsview Checking Help for webhooks
+2016-11-18 09:37:35,482 INFO     errbot.plugin_manager     Activate plugin: Plugins
+2016-11-18 09:37:35,482 DEBUG    errbot.plugin_manager     Plugin Plugins has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,482 INFO     errbot.plugin_manager     Activating Plugins with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,482 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,482 DEBUG    errbot.botplugin          Init storage for Plugins
+2016-11-18 09:37:35,482 DEBUG    errbot.storage            Opening storage 'Plugins'
+2016-11-18 09:37:35,482 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Plugins.db
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : plugin_activate -> plugin_activate
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : plugin_blacklist -> plugin_blacklist
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : plugin_config -> plugin_config
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : plugin_deactivate -> plugin_deactivate
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : plugin_reload -> plugin_reload
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : plugin_unblacklist -> plugin_unblacklist
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : repos -> repos
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : repos_install -> repos_install
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : repos_search -> repos_search
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : repos_uninstall -> repos_uninstall
+2016-11-18 09:37:35,483 DEBUG    errbot.core               Adding command : repos_update -> repos_update
+2016-11-18 09:37:35,483 INFO     errbot.core_plugins.wsview Checking Plugins for webhooks
+2016-11-18 09:37:35,484 INFO     errbot.plugin_manager     Activate plugin: Utils
+2016-11-18 09:37:35,484 DEBUG    errbot.plugin_manager     Plugin Utils has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,484 INFO     errbot.plugin_manager     Activating Utils with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,484 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,484 DEBUG    errbot.botplugin          Init storage for Utils
+2016-11-18 09:37:35,484 DEBUG    errbot.storage            Opening storage 'Utils'
+2016-11-18 09:37:35,484 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/Utils.db
+2016-11-18 09:37:35,485 DEBUG    errbot.core               Adding command : echo -> echo
+2016-11-18 09:37:35,485 DEBUG    errbot.core               Adding command : history -> history
+2016-11-18 09:37:35,485 DEBUG    errbot.core               Adding command : log_tail -> log_tail
+2016-11-18 09:37:35,485 DEBUG    errbot.core               Adding command : render_test -> render_test
+2016-11-18 09:37:35,485 DEBUG    errbot.core               Adding command : whoami -> whoami
+2016-11-18 09:37:35,485 INFO     errbot.core_plugins.wsview Checking Utils for webhooks
+2016-11-18 09:37:35,485 INFO     errbot.plugin_manager     Activate plugin: VersionChecker
+2016-11-18 09:37:35,485 DEBUG    errbot.plugin_manager     Plugin VersionChecker has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,486 INFO     errbot.plugin_manager     Activating VersionChecker with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,486 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,486 INFO     errbot.plugins.VersionChecker Skip version checking under text mode
+2016-11-18 09:37:35,486 INFO     errbot.core_plugins.wsview Checking VersionChecker for webhooks
+2016-11-18 09:37:35,486 INFO     errbot.plugin_manager     Activate plugin: Webserver
+2016-11-18 09:37:35,486 DEBUG    errbot.plugin_manager     Plugin Webserver has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:37:35,486 INFO     errbot.plugin_manager     Activating Webserver with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:37:35,486 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:37:35,487 INFO     errbot.plugins.Webserver  Webserver is not configured. Forbid activation
+2016-11-18 09:37:35,487 INFO     errbot.core_plugins.wsview Checking Webserver for webhooks
+2016-11-18 09:37:35,487 INFO     errbot.core_plugins.wsview Webhook routing echo
+2016-11-18 09:37:35,487 DEBUG    errbot.plugin_manager     Activate flow plugins ...
+2016-11-18 09:37:35,487 INFO     errbot.core               
+2016-11-18 09:37:35,487 INFO     errbot.core               Notifying connection to all the plugins...
+2016-11-18 09:37:35,487 DEBUG    errbot.core               Trigger callback_connect on Example
+2016-11-18 09:37:35,487 DEBUG    errbot.core               Trigger callback_connect on ACLS
+2016-11-18 09:37:35,487 DEBUG    errbot.core               Trigger callback_connect on Backup
+2016-11-18 09:37:35,487 DEBUG    errbot.core               Trigger callback_connect on ChatRoom
+2016-11-18 09:37:35,487 INFO     errbot.plugins.ChatRoom   Callback_connect
+2016-11-18 09:37:35,487 DEBUG    errbot.core               Trigger callback_connect on Flows
+2016-11-18 09:37:35,487 DEBUG    errbot.core               Trigger callback_connect on Health
+2016-11-18 09:37:35,487 DEBUG    errbot.core               Trigger callback_connect on Help
+2016-11-18 09:37:35,487 DEBUG    errbot.core               Trigger callback_connect on Plugins
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Trigger callback_connect on Utils
+2016-11-18 09:37:35,488 INFO     errbot.core               Plugin activation done.
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Triggering callback_presence on Example
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Triggering callback_presence on ACLS
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Triggering callback_presence on Backup
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Triggering callback_presence on ChatRoom
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Triggering callback_presence on Flows
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Triggering callback_presence on Health
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Triggering callback_presence on Help
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Triggering callback_presence on Plugins
+2016-11-18 09:37:35,488 DEBUG    errbot.core               Triggering callback_presence on Utils
+2016-11-18 09:37:45,925 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:37:45,926 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:37:45,926 DEBUG    errbot.core               *** text = !repos install err-helloworld
+2016-11-18 09:37:45,926 DEBUG    errbot.plugins.ACLS       Check repos_install for ACLs.
+2016-11-18 09:37:45,926 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Plugins:repos_install
+2016-11-18 09:37:45,926 INFO     errbot.plugins.ACLS       Check if repos_install is admin only command.
+2016-11-18 09:37:45,927 INFO     errbot.core               Processing command 'repos_install' with parameters 'err-helloworld' from CHANGE ME
+2016-11-18 09:37:45,927 DEBUG    errbot.flow               Test if the command repos_install is a trigger for an inflight flow ...
+2016-11-18 09:37:45,927 DEBUG    errbot.flow               None matched.
+2016-11-18 09:37:45,946 DEBUG    errbot.flow               Test if the command repos_install is a trigger for an inflight flow ...
+2016-11-18 09:37:45,946 DEBUG    errbot.flow               None matched.
+2016-11-18 09:37:45,946 DEBUG    errbot.flow               Test if the command repos_install is an auto-trigger for any flow ...
+2016-11-18 09:37:45,946 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:37:45,947 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:37:45,947 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:37:45,947 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:37:45,947 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:37:45,947 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:37:45,947 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:37:45,947 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:37:45,947 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:38:07,157 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:38:07,157 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:38:07,157 DEBUG    errbot.core               *** text = !repos search spark
+2016-11-18 09:38:07,157 DEBUG    errbot.plugins.ACLS       Check repos_search for ACLs.
+2016-11-18 09:38:07,158 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Plugins:repos_search
+2016-11-18 09:38:07,158 INFO     errbot.plugins.ACLS       Check if repos_search is admin only command.
+2016-11-18 09:38:07,158 INFO     errbot.core               Processing command 'repos_search' with parameters 'spark' from CHANGE ME
+2016-11-18 09:38:07,158 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:38:07,158 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:38:07,158 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:38:07,159 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:38:07,159 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:38:07,159 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:38:07,159 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:38:07,159 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:38:07,159 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:38:07,159 DEBUG    errbot.flow               Test if the command repos_search is a trigger for an inflight flow ...
+2016-11-18 09:38:07,159 DEBUG    errbot.flow               None matched.
+2016-11-18 09:38:07,185 DEBUG    errbot.flow               Test if the command repos_search is a trigger for an inflight flow ...
+2016-11-18 09:38:07,186 DEBUG    errbot.flow               None matched.
+2016-11-18 09:38:07,186 DEBUG    errbot.flow               Test if the command repos_search is an auto-trigger for any flow ...
+2016-11-18 09:38:12,853 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:38:12,853 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:38:12,853 DEBUG    errbot.core               *** text = !repos search github
+2016-11-18 09:38:12,853 DEBUG    errbot.plugins.ACLS       Check repos_search for ACLs.
+2016-11-18 09:38:12,853 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Plugins:repos_search
+2016-11-18 09:38:12,854 INFO     errbot.plugins.ACLS       Check if repos_search is admin only command.
+2016-11-18 09:38:12,854 INFO     errbot.core               Processing command 'repos_search' with parameters 'github' from CHANGE ME
+2016-11-18 09:38:12,855 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:38:12,855 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:38:12,855 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:38:12,855 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:38:12,855 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:38:12,855 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:38:12,855 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:38:12,856 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:38:12,856 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:38:12,856 DEBUG    errbot.flow               Test if the command repos_search is a trigger for an inflight flow ...
+2016-11-18 09:38:12,856 DEBUG    errbot.flow               None matched.
+2016-11-18 09:38:12,972 DEBUG    errbot.flow               Test if the command repos_search is a trigger for an inflight flow ...
+2016-11-18 09:38:12,972 DEBUG    errbot.flow               None matched.
+2016-11-18 09:38:12,972 DEBUG    errbot.flow               Test if the command repos_search is an auto-trigger for any flow ...
+2016-11-18 09:41:41,541 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:41:41,541 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:41:41,541 DEBUG    errbot.core               *** text = !repos install  errbotio/err-time
+2016-11-18 09:41:41,541 DEBUG    errbot.plugins.ACLS       Check repos_install for ACLs.
+2016-11-18 09:41:41,541 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Plugins:repos_install
+2016-11-18 09:41:41,541 INFO     errbot.plugins.ACLS       Check if repos_install is admin only command.
+2016-11-18 09:41:41,542 INFO     errbot.core               Processing command 'repos_install' with parameters ' errbotio/err-time' from CHANGE ME
+2016-11-18 09:41:41,542 DEBUG    errbot.flow               Test if the command repos_install is a trigger for an inflight flow ...
+2016-11-18 09:41:41,542 DEBUG    errbot.flow               None matched.
+2016-11-18 09:41:42,303 DEBUG    errbot.plugin_manager     All plugin roots:
+2016-11-18 09:41:42,304 DEBUG    errbot.plugin_manager     -> /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example
+2016-11-18 09:41:42,304 DEBUG    errbot.plugin_manager     -> /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/plugins/errbotio/err-time
+2016-11-18 09:41:42,304 DEBUG    errbot.plugin_manager     Add /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/plugins/errbotio/err-time to sys.path
+2016-11-18 09:41:42,304 DEBUG    errbot.plugin_manager     -> /Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins
+2016-11-18 09:41:42,304 DEBUG    errbot.plugin_manager     /Users/terences/PycharmProjects/sandbox/bot/errbot-root/plugins/err-example has no requirements.txt file
+2016-11-18 09:41:42,304 INFO     errbot.plugin_manager     Installing packages from '/Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/plugins/errbotio/err-time/requirements.txt'.
+2016-11-18 09:41:43,854 DEBUG    errbot.plugin_manager     /Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins has no requirements.txt file
+2016-11-18 09:41:43,898 INFO     errbot                    webhooks:  Flag to bind /echo to echo
+2016-11-18 09:41:43,899 INFO     errbot.plugin_manager     Activate bot plugins...
+2016-11-18 09:41:43,900 INFO     errbot.plugin_manager     Activate plugin: VersionChecker
+2016-11-18 09:41:43,900 DEBUG    errbot.plugin_manager     Plugin VersionChecker has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:41:43,900 INFO     errbot.plugin_manager     Activating VersionChecker with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:41:43,900 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:41:43,900 INFO     errbot.plugins.VersionChecker Skip version checking under text mode
+2016-11-18 09:41:43,900 INFO     errbot.core_plugins.wsview Checking VersionChecker for webhooks
+2016-11-18 09:41:43,901 INFO     errbot.plugin_manager     Activate plugin: Webserver
+2016-11-18 09:41:43,901 DEBUG    errbot.plugin_manager     Plugin Webserver has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:41:43,901 INFO     errbot.plugin_manager     Activating Webserver with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:41:43,901 DEBUG    errbot.templating         Templates directory found for this plugin [/Users/terences/.virtualenvs/errbot-ve/lib/python3.5/site-packages/errbot/core_plugins/templates]
+2016-11-18 09:41:43,901 INFO     errbot.plugins.Webserver  Webserver is not configured. Forbid activation
+2016-11-18 09:41:43,901 INFO     errbot.core_plugins.wsview Checking Webserver for webhooks
+2016-11-18 09:41:43,901 INFO     errbot.core_plugins.wsview Webhook routing echo
+2016-11-18 09:41:43,902 INFO     errbot.plugin_manager     Activate plugin: TimeBot
+2016-11-18 09:41:43,902 DEBUG    errbot.plugin_manager     Plugin TimeBot has no section [Errbot]. Assuming this plugin is runnning on any Errbot version.
+2016-11-18 09:41:43,902 INFO     errbot.plugin_manager     Activating TimeBot with min_err_version = 4.3.4 and max_version = 4.3.4
+2016-11-18 09:41:43,902 DEBUG    errbot.templating         No templates directory found for this plugin [Looking for /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/plugins/errbotio/err-time/templates]
+2016-11-18 09:41:43,902 DEBUG    errbot.botplugin          Init storage for TimeBot
+2016-11-18 09:41:43,902 DEBUG    errbot.storage            Opening storage 'TimeBot'
+2016-11-18 09:41:43,902 DEBUG    errbot.storage.shelf      Open shelf storage /Users/terences/PycharmProjects/sandbox/bot/errbot-root/data/TimeBot.db
+2016-11-18 09:41:43,903 DEBUG    errbot.core               Adding command : time -> time
+2016-11-18 09:41:43,903 DEBUG    errbot.core               Adding command : tzlist -> tzlist
+2016-11-18 09:41:43,903 INFO     errbot.core_plugins.wsview Checking TimeBot for webhooks
+2016-11-18 09:41:43,903 DEBUG    errbot.plugin_manager     Activate flow plugins ...
+2016-11-18 09:41:43,903 DEBUG    errbot.flow               Test if the command repos_install is a trigger for an inflight flow ...
+2016-11-18 09:41:43,903 DEBUG    errbot.flow               None matched.
+2016-11-18 09:41:43,904 DEBUG    errbot.flow               Test if the command repos_install is an auto-trigger for any flow ...
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:41:43,904 DEBUG    errbot.core               Triggering callback_message on TimeBot
+2016-11-18 09:41:55,759 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:41:55,759 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:41:55,759 DEBUG    errbot.core               *** text = what time is it?
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:41:55,760 DEBUG    errbot.core               Triggering callback_message on TimeBot
+2016-11-18 09:42:53,565 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 09:42:53,565 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 09:42:53,565 DEBUG    errbot.core               *** text = !time
+2016-11-18 09:42:53,565 DEBUG    errbot.plugins.ACLS       Check time for ACLs.
+2016-11-18 09:42:53,566 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command TimeBot:time
+2016-11-18 09:42:53,566 INFO     errbot.plugins.ACLS       Check if time is admin only command.
+2016-11-18 09:42:53,566 INFO     errbot.core               Processing command 'time' with parameters '' from CHANGE ME
+2016-11-18 09:42:53,566 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 09:42:53,566 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 09:42:53,566 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 09:42:53,567 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 09:42:53,567 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 09:42:53,567 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 09:42:53,567 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 09:42:53,567 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 09:42:53,567 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 09:42:53,567 DEBUG    errbot.core               Triggering callback_message on TimeBot
+2016-11-18 09:42:53,567 DEBUG    errbot.flow               Test if the command time is a trigger for an inflight flow ...
+2016-11-18 09:42:53,567 DEBUG    errbot.flow               None matched.
+2016-11-18 09:42:53,569 DEBUG    errbot.flow               Test if the command time is a trigger for an inflight flow ...
+2016-11-18 09:42:53,569 DEBUG    errbot.flow               None matched.
+2016-11-18 09:42:53,569 DEBUG    errbot.flow               Test if the command time is an auto-trigger for any flow ...
+2016-11-18 11:00:52,795 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 11:00:52,796 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 11:00:52,796 DEBUG    errbot.core               *** text = !quit
+2016-11-18 11:00:52,796 DEBUG    errbot.core               Command not found
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 11:00:52,798 DEBUG    errbot.core               Triggering callback_message on TimeBot
+2016-11-18 11:00:55,731 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 11:00:55,731 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 11:00:55,731 DEBUG    errbot.core               *** text = !exit
+2016-11-18 11:00:55,732 DEBUG    errbot.core               Command not found
+2016-11-18 11:00:55,733 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 11:00:55,733 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 11:00:55,733 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 11:00:55,733 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 11:00:55,733 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 11:00:55,734 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 11:00:55,734 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 11:00:55,734 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 11:00:55,734 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 11:00:55,734 DEBUG    errbot.core               Triggering callback_message on TimeBot
+2016-11-18 11:00:59,147 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 11:00:59,147 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 11:00:59,147 DEBUG    errbot.core               *** text = !shutdown
+2016-11-18 11:00:59,148 DEBUG    errbot.plugins.ACLS       Check shutdown for ACLs.
+2016-11-18 11:00:59,148 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Health:shutdown
+2016-11-18 11:00:59,148 INFO     errbot.plugins.ACLS       Check if shutdown is admin only command.
+2016-11-18 11:00:59,148 INFO     errbot.core               Processing command 'shutdown' with parameters '' from CHANGE ME
+2016-11-18 11:00:59,148 DEBUG    errbot.flow               Test if the command shutdown is a trigger for an inflight flow ...
+2016-11-18 11:00:59,148 DEBUG    errbot.flow               None matched.
+2016-11-18 11:00:59,150 DEBUG    errbot.flow               Test if the command shutdown is a trigger for an inflight flow ...
+2016-11-18 11:00:59,150 DEBUG    errbot.flow               None matched.
+2016-11-18 11:00:59,150 DEBUG    errbot.flow               Test if the command shutdown is an auto-trigger for any flow ...
+2016-11-18 11:00:59,150 DEBUG    errbot.core               Triggering callback_message on Example
+2016-11-18 11:00:59,150 DEBUG    errbot.core               Triggering callback_message on ACLS
+2016-11-18 11:00:59,150 DEBUG    errbot.core               Triggering callback_message on Backup
+2016-11-18 11:00:59,150 DEBUG    errbot.core               Triggering callback_message on ChatRoom
+2016-11-18 11:00:59,151 DEBUG    errbot.core               Triggering callback_message on Flows
+2016-11-18 11:00:59,151 DEBUG    errbot.core               Triggering callback_message on Health
+2016-11-18 11:00:59,151 DEBUG    errbot.core               Triggering callback_message on Help
+2016-11-18 11:00:59,151 DEBUG    errbot.core               Triggering callback_message on Plugins
+2016-11-18 11:00:59,151 DEBUG    errbot.core               Triggering callback_message on Utils
+2016-11-18 11:00:59,151 DEBUG    errbot.core               Triggering callback_message on TimeBot
+2016-11-18 11:01:10,315 DEBUG    errbot.core               *** frm = CHANGE ME
+2016-11-18 11:01:10,315 DEBUG    errbot.core               *** username = CHANGE ME
+2016-11-18 11:01:10,315 DEBUG    errbot.core               *** text = !shutdown --confirm
+2016-11-18 11:01:10,315 DEBUG    errbot.plugins.ACLS       Check shutdown for ACLs.
+2016-11-18 11:01:10,315 INFO     errbot.plugins.ACLS       Matching ACL {} against username CHANGE ME for command Health:shutdown
+2016-11-18 11:01:10,315 INFO     errbot.plugins.ACLS       Check if shutdown is admin only command.
+2016-11-18 11:01:10,315 INFO     errbot.core               Processing command 'shutdown' with parameters '--confirm' from CHANGE ME
+2016-11-18 11:01:10,316 DEBUG    errbot.flow               Test if the command shutdown is a trigger for an inflight flow ...
+2016-11-18 11:01:10,316 DEBUG    errbot.flow               None matched.
+2016-11-18 11:01:10,317 DEBUG    errbot.flow               Test if the command shutdown is a trigger for an inflight flow ...
+2016-11-18 11:01:10,317 DEBUG    errbot.flow               None matched.
+2016-11-18 11:01:10,317 DEBUG    errbot.flow               Test if the command shutdown is an auto-trigger for any flow ...
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on Example
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on ACLS
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on Backup
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on ChatRoom
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on Flows
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on Health
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on Help
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on Plugins
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on Utils
+2016-11-18 11:01:10,318 DEBUG    errbot.core               Triggering callback_presence on TimeBot
+2016-11-18 11:01:10,318 DEBUG    errbot.backends.text      Trigger disconnect callback
+2016-11-18 11:01:10,318 INFO     errbot.core               Disconnect callback, deactivating all the plugins.
+2016-11-18 11:01:10,319 DEBUG    errbot.storage            Closed storage 'TimeBot'
+2016-11-18 11:01:10,320 DEBUG    errbot.storage            Closed storage 'Health'
+2016-11-18 11:01:10,321 DEBUG    errbot.storage            Closed storage 'Flows'
+2016-11-18 11:01:10,321 DEBUG    errbot.storage            Closed storage 'ChatRoom'
+2016-11-18 11:01:10,322 DEBUG    errbot.storage            Closed storage 'Utils'
+2016-11-18 11:01:10,323 DEBUG    errbot.storage            Closed storage 'Plugins'
+2016-11-18 11:01:10,324 DEBUG    errbot.storage            Closed storage 'Backup'
+2016-11-18 11:01:10,324 DEBUG    errbot.storage            Closed storage 'ACLS'
+2016-11-18 11:01:10,325 DEBUG    errbot.core               Removing command filter: acls
+2016-11-18 11:01:10,325 DEBUG    errbot.storage            Closed storage 'Help'
+2016-11-18 11:01:10,326 DEBUG    errbot.storage            Closed storage 'Example'
+2016-11-18 11:01:10,326 DEBUG    errbot.backends.text      Trigger shutdown
+2016-11-18 11:01:10,326 DEBUG    errbot.storage            Closed storage 'text_backend'
+2016-11-18 11:01:10,326 INFO     errbot.plugin_manager     Shutdown.
+2016-11-18 11:01:10,327 DEBUG    errbot.storage            Closed storage 'core'
+2016-11-18 11:01:10,327 INFO     errbot.plugin_manager     Bye.
+2016-11-18 11:01:10,327 DEBUG    errbot.storage            Closed storage 'repomgr'
+2016-11-18 11:01:10,327 INFO     errbot.cli                Process exiting
